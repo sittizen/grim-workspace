@@ -1,0 +1,7 @@
+[user]
+	name = simone.cittadini
+	email = simone.cittadini@gruppomol.it
+[core]
+	autocrlf = false
+[credential]
+	helper = "!f() { /workspace/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/node /tmp/vscode-remote-containers-70e64d49-1c91-4829-8647-296ab37627b8.js git-credential-helper $*; }; f"
