@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Regole/051 Checks/0512 Check di Reazione.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Regole/051 Checks/0512 Check di Reazione.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Regole/051 Checks/0512 Check di Reazione.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Regole/051 Checks/0512 Check di Reazione.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "f8916ff4bd26d784",
   "lastOpenFiles": [
-    "05 Regole/051 Checks/0511 Check di Abilità.md",
     "05 Regole/051 Checks/0512 Check di Reazione.md",
+    "README.md",
+    "05 Regole/051 Checks/0511 Check di Abilità.md",
     "01 Starting Play/06 Avanzamento.md",
     "05 Regole/051 Checks",
     "01 Starting Play/04 Esempio di creazione del Personaggio.md",
@@ -182,7 +183,6 @@
     "02 Razze e Allineamenti/023 Razze Fatate",
     "02 Razze e Allineamenti/023 Razze Fatate.md",
     "02 Razze e Allineamenti/022 Razze Umanoidi/0222 Nano.md",
-    "02 Razze e Allineamenti/022 Razze Umanoidi/0221 Umano.md",
     "02 Razze e Allineamenti/022 Razze Umanoidi"
   ]
 }
