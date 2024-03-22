@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "6f2c115250b76433",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c0a27625b12e877",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8916ff4bd26d784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Starting Play/04 Esempio di creazione del Personaggio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf9da10a811da73a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed23ba73465eebb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4021fa7c4a0a713",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "633fab88d0e60183",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a47df05f1d2fa297",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d66ef40192117ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cc0de0bcd3af4b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30faf2f1799583ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Starting Play/04 Esempio di creazione del Personaggio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "051eb4cc18eaeb7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Starting Play/04 Esempio di creazione del Personaggio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a00e3441c003ea8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c6c9b0ac1ba343c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Starting Play/04 Esempio di creazione del Personaggio.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f8916ff4bd26d784",
+  "lastOpenFiles": [
+    "01 Starting Play/03 Creare un Personaggio.md",
+    "01 Starting Play/02 Caratteristiche del Personaggio.md",
+    "01 Starting Play/05 Abilità/052 Check.md",
+    "01 Starting Play/05 Abilità/051 Valori.md",
+    "01 Starting Play/05 Abilità",
+    "01 Starting Play/06 Avanzamento.md",
+    "01 Starting Play/04 Esempio di creazione del Personaggio.md",
+    "01 Starting Play/01 Terminologia.md",
+    "03 Classi e Talenti/Talenti dei maghi.md",
+    "01 Starting Play/06 Allineamenti.md",
+    "04 Talenti",
+    "04 Magia",
+    "03 Classi e Talenti",
+    "02 Razze e Allineamenti",
+    "01 Starting Play"
+  ]
+}
