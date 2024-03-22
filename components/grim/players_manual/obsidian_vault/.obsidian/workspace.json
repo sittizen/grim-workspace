@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Starting Play/04 Esempio di creazione del Personaggio.md",
+                "file": "05 Regole/051 Checks/0512 Check di Reazione.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Starting Play/04 Esempio di creazione del Personaggio.md",
+                "file": "05 Regole/051 Checks/0512 Check di Reazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Starting Play/04 Esempio di creazione del Personaggio.md",
+                "file": "05 Regole/051 Checks/0512 Check di Reazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Starting Play/04 Esempio di creazione del Personaggio.md"
+                "file": "05 Regole/051 Checks/0512 Check di Reazione.md"
               }
             }
           }
@@ -148,20 +148,41 @@
   },
   "active": "f8916ff4bd26d784",
   "lastOpenFiles": [
-    "01 Starting Play/03 Creare un Personaggio.md",
+    "05 Regole/051 Checks/0511 Check di Abilità.md",
+    "05 Regole/051 Checks/0512 Check di Reazione.md",
+    "01 Starting Play/06 Avanzamento.md",
+    "05 Regole/051 Checks",
+    "01 Starting Play/04 Esempio di creazione del Personaggio.md",
     "01 Starting Play/02 Caratteristiche del Personaggio.md",
+    "01 Starting Play/01 Terminologia.md",
+    "01 Starting Play/03 Creare un Personaggio.md",
+    "05 Regole",
+    "03 Classi e Talenti/031 Classi/0314 Ladri.md",
+    "03 Classi e Talenti/031 Classi/0313 Maghi.md",
+    "03 Classi e Talenti/031 Classi/0312 Chierici.md",
+    "03 Classi e Talenti/031 Classi/0311 Guerrieri.md",
+    "04 Equipaggiamento/042 Lvl1/0421 Guerriero.md",
+    "04 Equipaggiamento/042 Lvl1",
+    "04 Equipaggiamento/041 Funnell",
+    "04 Equipaggiamento",
+    "03 Classi e Talenti/032 Talenti/Talenti dei Ladri.md",
     "01 Starting Play/05 Abilità/052 Check.md",
     "01 Starting Play/05 Abilità/051 Valori.md",
-    "01 Starting Play/05 Abilità",
-    "01 Starting Play/06 Avanzamento.md",
-    "01 Starting Play/04 Esempio di creazione del Personaggio.md",
-    "01 Starting Play/01 Terminologia.md",
-    "03 Classi e Talenti/Talenti dei maghi.md",
-    "01 Starting Play/06 Allineamenti.md",
-    "04 Talenti",
-    "04 Magia",
-    "03 Classi e Talenti",
-    "02 Razze e Allineamenti",
-    "01 Starting Play"
+    "03 Classi e Talenti/032 Talenti/Talenti dei maghi.md",
+    "03 Classi e Talenti/032 Talenti",
+    "03 Classi e Talenti/031 Classi",
+    "02 Razze e Allineamenti/024 Razze Goblinoidi/0243 Coboldi.md",
+    "02 Razze e Allineamenti/024 Razze Goblinoidi/0242 Gnoll.md",
+    "02 Razze e Allineamenti/024 Razze Goblinoidi/0241 Orchi.md",
+    "02 Razze e Allineamenti/023 Razze Fatate/0233 Brownie e Boggart.md",
+    "02 Razze e Allineamenti/024 Razze Goblinoidi",
+    "02 Razze e Allineamenti/023 Razze Fatate/0232 Fate e Folletti.md",
+    "02 Razze e Allineamenti/023 Razze Fatate/0231 Halfling.md",
+    "02 Razze e Allineamenti/022 Razze Umanoidi/0223 Elfo.md",
+    "02 Razze e Allineamenti/023 Razze Fatate",
+    "02 Razze e Allineamenti/023 Razze Fatate.md",
+    "02 Razze e Allineamenti/022 Razze Umanoidi/0222 Nano.md",
+    "02 Razze e Allineamenti/022 Razze Umanoidi/0221 Umano.md",
+    "02 Razze e Allineamenti/022 Razze Umanoidi"
   ]
 }
