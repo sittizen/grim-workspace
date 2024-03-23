@@ -1,7 +1,5 @@
----
-layout: markdown
+layout: page
 title: grim
----
 
 # Grim
 
