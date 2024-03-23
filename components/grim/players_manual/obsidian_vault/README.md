@@ -50,9 +50,13 @@
 - [Maghi](./03%20Classi%20e%20Talenti/032%20Talenti/0323%20Talenti%20dei%20Maghi)
 - [Ladri](./03%20Classi%20e%20Talenti/032%20Talenti/0324%20Talenti%20dei%20Ladri)
 
-## 04 Fede e Magia
+## Fede e Magia
 
-## 05 Regole e Procedure
+### Magia dell'ordine
+
+- [Incantesimo del Primo](./04%20Fede%20e%20Magia/041%20Magia%20dell'Ordine/0411%20Incantesimi%20del%20Primo)
+
+## Regole e Procedure
 
 - [Check di Abilità](./05%20Regole%20e%20Procedure/051%20Checks/0511%20Check%20di%20Abilità)
 - [Check di Reazione](./05%20Regole%20e%20Procedure/051%20Checks/0512%20Check%20di%20Reazione)
