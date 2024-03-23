@@ -17,11 +17,11 @@ Il perimetro designato è reso impenetrabile a fonti di luce naturali e non, è 
 
 # Chill Touch
 
-Raggio: tocco
-Durata: -
-Costo: 1AP
-Salva con: AoE
-Vìola: Energia
+Raggio: tocco  
+Durata: -  
+Costo: 1AP  
+Salva con: AoE  
+Vìola: Energia  
 
 Il mago crea energie negative attorno alle sue mani che si trasferiscono in vicinanza del bersaglio designato, causandogli ustioni da freddo.
 
@@ -34,11 +34,11 @@ Il mago crea energie negative attorno alle sue mani che si trasferiscono in vici
 
 # Choking Cloud
 
-Raggio: 50'
-Durata: 2 round
-Costo: 1AP
-Salva con: Poison
-Vìola: Materia
+Raggio: 50'  
+Durata: 2 round  
+Costo: 1AP  
+Salva con: Poison  
+Vìola: Materia  
 
 Il mago evoca una nuvola di vapore caustico che avvolge il suo nemico.
 

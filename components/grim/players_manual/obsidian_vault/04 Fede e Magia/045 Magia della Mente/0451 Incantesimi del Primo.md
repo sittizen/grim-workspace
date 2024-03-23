@@ -1,10 +1,10 @@
 # Charm
 
-Raggio: 120'
-Durata: 1 ora
-Costo: 1AP
-Salva con: Mfx
-Vìola: Pensiero
+Raggio: 120'  
+Durata: 1 ora  
+Costo: 1AP  
+Salva con: Mfx  
+Vìola: Pensiero  
 
 Un umanoide senziente diventa amico leale del mago. I chierici della natura possono usare questo incantesimo anche su animali con un numero di dadi vita fino al livello del chierico. Il livello del bersaglio non può superare quello del mago
 
@@ -18,11 +18,11 @@ Un umanoide senziente diventa amico leale del mago. I chierici della natura poss
 
 # Color Spray
 
-Raggio: 40'
-Durata: 1 round
-Costo: 1AP
-Salva con: AoE
-Vìola: Energia
+Raggio: 40'  
+Durata: 1 round  
+Costo: 1AP  
+Salva con: AoE  
+Vìola: Energia  
 
 Il mago evoca un'esplosione conica di uno o più colori che colpisce tutti bersaglio presenti nel raggio. (base del cono 20'). Se si effettua un tiro salvezza si evita l'effetto dato dalla difficoltà ma si subiscono lo stesso tutti i precedenti
 
