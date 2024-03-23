@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4c0a27625b12e877",
+        "id": "83c4d3a78412fbdd",
         "type": "tabs",
         "children": [
           {
-            "id": "f8916ff4bd26d784",
+            "id": "dc3accf12dbc6576",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Introduzione/01 Terminologia.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Introduzione/01 Terminologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Introduzione/01 Terminologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 Introduzione/01 Terminologia.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8916ff4bd26d784",
+  "active": "dc3accf12dbc6576",
   "lastOpenFiles": [
     "01 Introduzione/01 Terminologia.md",
     "README.md",

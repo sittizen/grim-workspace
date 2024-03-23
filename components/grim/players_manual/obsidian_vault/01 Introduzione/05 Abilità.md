@@ -154,9 +154,12 @@ A valori di caratteristica particolarmente alti o bassi corrispondono modificato
 
 Quando un check di abilità si applica in situazioni di stress dato da emergenza e/o opposizione ad un altro attore si applica una modifica che può essere positiva o negativa in base alla propria classe e razza.
 
-Veleno
-Paralisi
-Area d'Effetto
-Effetto Magico
-Classe Armatura
+- Veleno, modifica i check di Costituzione in caso di intossicazione
+- Paralisi, modifica i check di Forza in situazioni di emergenza, combattimento
+- Area d'Effetto, modifica i check di Destrezza in situazioni di emergenza, combattimento
+- Effetto Magico, modifica i check di Percezione per disfarsi di un'illusione / condizionamento magico
+- Classe Armatura, modifica i check di Forza o Destrezza di un avversario in combattimento
+
+
+
 
