@@ -11,6 +11,8 @@ The Order: protezione (vs chaos), status quo
 The Chaos : chaos (vs order), distruzione, cambiamento
 The Mind: pensiero, illusione, scoperta (vs green)
 
-I chierici possono lanciare incantesimi apparteneti alla sfera della loro divinità protettrice, il livello di difficoltà massimo a cui possono lanciarlo corrisponde al loro rango (non livello), se il check fallisce l'incantesimo non ha effetto. Possono moltiplicare una delle misure dell'incantesimo alzando la difficoltà e usando un ulteriore AP.
+I chierici possono lanciare incantesimi apparteneti alla sfera della loro divinità protettrice, possono tentare difficoltà al massimo pari al loro livello. Possono moltiplicare una delle misure dell'incantesimo alzando la difficoltà e usando un ulteriore AP.
 
 Non esistono chierici del pensiero, anzi, perseguendo un obiettivo di potenziamento personale delle razze mortali quasi tutte le divinità tendono ad ostacolarla attivamente.
+
+Si può resistere agli effetti di un incantesimo con un tiro salvezza del tipo specificato e di difficoltà pari al rank del mago che lo lancia. In caso di successo gli effetti numerici dell'incantesimo sono dimezzati arrotondando per difetto (quindi possono anche essere portati a zero).

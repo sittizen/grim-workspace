@@ -8,9 +8,6 @@ Incantesimi delle scuole opposte non possono mai essere lanciati.
 
 Esistono diverse “lingue magiche” in base alle ere e nazioni, che i maghi utilizzano per insegnare, trascrivere e incanalare la magia. Un mago può imparare una lingua magica esattamente come si impara una normale lingua straniera.
 
-Si può resistere agli effetti di un incantesimo con un tiro salvezza del tipo appropriato e di difficoltà pari al rank del mago che lo lancia.
-
-
 Ogni incantesimo quando lanciato da un mago agisce violando una delle tre regole naturali dell’esistenza:
 
 - Conservazione dell’Energia: l’energia si trasforma ma non si crea  
