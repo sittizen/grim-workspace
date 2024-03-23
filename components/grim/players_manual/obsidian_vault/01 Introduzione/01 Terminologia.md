@@ -1,3 +1,7 @@
+---
+layout: markdown
+---
+
 
 **Attributi** , le misure fondamentali che caratterizzano il personaggio. Si dividono in Caratteristiche, modificatori, bonus. ^99edfc
 

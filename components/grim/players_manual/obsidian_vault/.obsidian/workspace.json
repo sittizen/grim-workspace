@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01 Introduzione/01 Terminologia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 Introduzione/01 Terminologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01 Introduzione/01 Terminologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01 Introduzione/01 Terminologia.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "f8916ff4bd26d784",
   "lastOpenFiles": [
+    "01 Introduzione/01 Terminologia.md",
+    "README.md",
     "03 Classi e Talenti/032 Talenti/0322 Talenti dei Chierici.md",
     "03 Classi e Talenti/032 Talenti/0322 Talenti dei Chierici",
     "03 Classi e Talenti/032 Talenti/0321 Talenti dei Guerrieri.md",
@@ -176,13 +178,11 @@
     "01 Introduzione/04 Esempio di creazione del Personaggio.md",
     "01 Introduzione/03 Creare un Personaggio.md",
     "01 Introduzione/02 Caratteristiche del Personaggio.md",
-    "01 Introduzione/01 Terminologia.md",
     "01 Introduzione",
     "01 Starting Play/05 Abilità.md",
     "01 Starting Play/05 Abilità",
     "01 Starting Play/05 Abilitòà",
     "01 Starting Play/05 Abilit",
-    "05 Regole e Procedure/051 Checks/0512 Check di Reazione.md",
-    "05 Regole e Procedure/051 Checks/0511 Check di Abilità.md"
+    "05 Regole e Procedure/051 Checks/0512 Check di Reazione.md"
   ]
 }
