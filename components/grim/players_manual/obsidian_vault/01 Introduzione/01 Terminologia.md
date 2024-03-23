@@ -1,8 +1,3 @@
----
-layout: markdown
-title: terminologia
----
-
 **Attributi** , le misure fondamentali che caratterizzano il personaggio. Si dividono in Caratteristiche, modificatori, bonus. ^99edfc
 
 **Caratteristiche** , le capacità fisiche e mentali del personaggio, con valori che possono variare da 3 a 18 o più.
