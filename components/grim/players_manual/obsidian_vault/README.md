@@ -65,16 +65,6 @@
 
 - [Incantesimi del Primo](./04%20Fede%20e%20Magia/044%20Magia%20del%20Chaos/0411%20Incantesimi%20del%20Primo)
 
-### Magia del Pensiero
-
-### Magia dell'ordine
-
-### Magia del Verde
-
-## Magia del Chaos
-
-- [Incantesimi del Primo](./04%20Fede%20e%20Magia/043%20Magia%20del%20Chaos/0411%20Incantesimi%20del%20Primo)
-
 
 ## Regole e Procedure
 
