@@ -52,6 +52,21 @@
 
 ## Fede e Magia
 
+### Divinità e Stregoneria
+
+- [L'intervento delle Divinità](./04%20Fede%20e%20Magia/041%20Divinità%20e%20Stregonieria/0411%20L'Intervento%20delle%20Divinità)
+- [Lo studio della Magia](./04%20Fede%20e%20Magia/041%20Divinità%20e%20Stregonieria/0412%20Lo%20studio%20della%20Magia)
+
+### Magia dell'Ordine
+
+### Magia del Verde
+
+### Magia del Chaos
+
+- [Incantesimo del Primo](./04%20Fede%20e%20Magia/044%20Magia%20del%20Chaos/0411%20Incantesimi%20del%20Primo)
+
+### Magia del Pensiero
+
 ### Magia dell'ordine
 
 ### Magia del Verde
