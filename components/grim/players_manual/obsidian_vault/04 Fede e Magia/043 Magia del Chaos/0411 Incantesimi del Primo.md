@@ -1,10 +1,11 @@
 # Buio
 
-Raggio: 20' di raggio
-Durata: 1 turno
-Costo: 1AP
-Salva con: no
-Vìola: Energia 
+
+Raggio: 20' di raggio  
+Durata: 1 turno  
+Costo: 1AP  
+Salva con: no  
+Vìola: Energia
 
 Il perimetro designato è reso impenetrabile a fonti di luce naturali e non, è percepito come fosse calata una notte senza luna e stelle. Le creature all'interno non hanno modo di vedere tutto quello che è fuori dal raggio, e tutti i loro check subiscono un malus di 4.
 
