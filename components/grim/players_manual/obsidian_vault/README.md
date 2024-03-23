@@ -63,7 +63,7 @@
 
 ### Magia del Chaos
 
-- [Incantesimo del Primo](./04%20Fede%20e%20Magia/044%20Magia%20del%20Chaos/0411%20Incantesimi%20del%20Primo)
+- [Incantesimi del Primo](./04%20Fede%20e%20Magia/044%20Magia%20del%20Chaos/0411%20Incantesimi%20del%20Primo)
 
 ### Magia del Pensiero
 
