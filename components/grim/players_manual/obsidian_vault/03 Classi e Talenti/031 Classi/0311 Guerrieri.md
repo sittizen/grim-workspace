@@ -2,6 +2,7 @@
 Init dice: uno sotto  
 Saves: Pa -1 , Mfx +1  
 Malus delle combat stance: +1
+Dado dei danni: 1 sopra
 
 ## Knight
 

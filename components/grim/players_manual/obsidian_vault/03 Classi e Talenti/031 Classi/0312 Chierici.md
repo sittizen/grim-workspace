@@ -4,12 +4,12 @@ Saves: Mfx -1
 Il chierico ottiene gli incantesimi per grazia divina, può sempre decidere cosa lanciare tra tutti gli incantesimi che conosce ma non ha modo di impararne di nuovi, gli vengono concessi in seguito a quest.
 
 
-## Inquisitor
+## Inquisitore
 
 caratteristica principale: Percezione
 - Vantaggio all'interpretazione dei motivi altrui
 
-## Friar
+## Frate
 
 caratteristica principale: Carisma
 - Vantaggio ai tentativi di persuazione non ingannevole

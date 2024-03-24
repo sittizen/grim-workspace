@@ -41,14 +41,14 @@
 - [Guerrieri](./03%20Classi%20e%20Talenti/031%20Classi/0311%20Guerrieri)
 - [Chierici](./03%20Classi%20e%20Talenti/031%20Classi/0312%20Chierici)
 - [Maghi](./03%20Classi%20e%20Talenti/031%20Classi/0313%20Maghi)
-- [Ladri](./03%20Classi%20e%20Talenti/031%20Classi/0314%20Ladri)
+- [Furfanti](./03%20Classi%20e%20Talenti/031%20Classi/0314%20Furfanti)
 
 ### Talenti
 
 - [Guerrieri](./03%20Classi%20e%20Talenti/032%20Talenti/0321%20Talenti%20dei%20Guerrieri)
 - [Chierici](./03%20Classi%20e%20Talenti/032%20Talenti/0322%20Talenti%20dei%20Chierici)
 - [Maghi](./03%20Classi%20e%20Talenti/032%20Talenti/0323%20Talenti%20dei%20Maghi)
-- [Ladri](./03%20Classi%20e%20Talenti/032%20Talenti/0324%20Talenti%20dei%20Ladri)
+- [Furfanti](./03%20Classi%20e%20Talenti/032%20Talenti/0324%20Talenti%20dei%20Furfanti)
 
 ## Fede e Magia
 
