@@ -1,27 +1,37 @@
+## Modifiche di classe
+Init dice: uno sotto  
+Saves: Pa -1 , Mfx +1  
+Malus delle combat stance: +1
 
-Init dice uno sotto
-Saves Pa-1 , Mfx+1
-Malus delle combat stance +1
+## Knight
 
-STR: 
+caratteristica principale: Forza 
 - Vantaggio sulle prove di forza fisica in rimozione di un ostacolo.
 - BAC modificata dalla costituzione 
 
+## Swashbuckler
 
-
-DXT: 
+caratteristica principale: Destrezza
 - Vantaggio sulle prove di agilità in evasione di un ostacolo.
 - BAC modificata dalla destrezza
 
-Ranger:
-- uno dei template precedenti, ma sostituisce il vantaggio con:
+## Ranger
+
+template Knight ow Swashbuckler, ma sostituisce il vantaggio con:
 - vantaggio sulle prove di foraging e navigation
-- Po -1
+
+inoltre:
+
+- Saves: Po -1
 
 
 
-Equipaggiamento 
+### Equipaggiamento 
 
-Funnell
- Arma media e scudo o arma grande, armatura leggera, 10m di corda
+Funnell : 
+
+- Arma media e scudo o arma grande
+- armatura heavy cloth o soft leather
+- 10m di corda
   
+Lvl 1:
