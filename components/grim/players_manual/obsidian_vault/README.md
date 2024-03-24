@@ -7,7 +7,7 @@
 - [Creare un Personaggio](./01%20Introduzione/03%20Creare%20un%20Personaggio)
 - [Esempio di creazione del Personaggio](./01%20Introduzione/04%20Esempio%20di%20creazione%20del%20Personaggio)
 - [Abilità](./01%20Introduzione/05%20Abilità)
-- [Avanzamento](./01%20Introduzione/06%20Avanzamento)
+- [Livelli e Ranghi](./01%20Introduzione/06%20Livelli%20e%20Ranghi)
 
 ## Razze e Allineamenti
 
@@ -52,7 +52,7 @@
 
 ## Fede e Magia
 
-### Divinità e Stregoneria
+### Divintà e Stregoneria
 
 - [L'intervento delle Divinità](./04%20Fede%20e%20Magia/041%20Divinità%20e%20Stregonieria/0411%20L'Intervento%20delle%20Divinità)
 - [Lo studio della Magia](./04%20Fede%20e%20Magia/041%20Divinità%20e%20Stregonieria/0412%20Lo%20studio%20della%20Magia)
@@ -76,5 +76,21 @@
 
 ## Regole e Procedure
 
-- [Check di Abilità](./05%20Regole%20e%20Procedure/051%20Checks/0511%20Check%20di%20Abilità)
-- [Check di Reazione](./05%20Regole%20e%20Procedure/051%20Checks/0512%20Check%20di%20Reazione)
+### Check
+
+- [Check di Abilità](./05%20Regole%20e%20Procedure/051%20Check/0511%20Check%20di%20Abilità)
+- [Check di Reazione](./05%20Regole%20e%20Procedure/051%20Check/0512%20Check%20di%20Reazione)
+
+### Combattimento
+
+- [Regole](./05%20Regole%20e%20Procedure/052%20Combattimento/0521%20Regole)
+- [Armi ed Armature](./05%20Regole%20e%20Procedure/052%20Combattimento/0522%20Armi%20e%20Armature)
+
+### Dungeon
+
+- [Esplorare](./05%20Regole%20e%20Procedure/053%20Dungeon/0531%20Esplorare)
+
+### Viaggi
+
+- [Esplorare](./05%20Regole%20e%20Procedure/054%20Viaggi/0541%20Esplorare)
+- [Foraging](./05%20Regole%20e%20Procedure/054%20Viaggi/0542%20Foraging)
