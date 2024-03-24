@@ -13,3 +13,18 @@ L'animale può essere sempre disevocato a decisione del mago, o scomparirà se i
 - d8: 4HD, scappa se ferito mortalmente
 - d10: fino a 8HD di animali, doppio del tempo (anche se si possiede un componente singolo può evocare più animali di quel tipo)
 - d12: fino a 16HD di animali, quadruplo del tempo
+
+
+# crescita
+
+# feather fall
+
+# multiply food
+
+# multiply liquids
+
+# cure poison
+
+# poison
+
+# bug infestation

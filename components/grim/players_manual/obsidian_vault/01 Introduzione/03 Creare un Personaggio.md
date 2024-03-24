@@ -25,7 +25,7 @@ Scegliere una delle classi dettagliate e relativa sottoclasse.
 
 **5 / A - Funnell**
 
-Se si intende iniziare la campagna con un Funnell per più personaggi di livello zero ripetere solo gli step 1 - 3 per il numero di personaggi voluti 
+Se si intende iniziare la campagna con un Funnell per più personaggi di livello zero ripetere solo gli step 1 - 3 per il numero di personaggi voluti.
 
 **5 / B - Lvl 1, scegliere una classe specializzata**
 

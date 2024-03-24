@@ -35,3 +35,17 @@ Il mago evoca un'esplosione conica di uno o più colori che colpisce tutti bersa
 
 
 
+# bookspeak
+
+# hide magic aura
+
+# translate
+
+# message
+
+# understand contraption
+
+# ventriloquismo
+
+# blur
+

@@ -47,3 +47,13 @@ Il mago evoca una nuvola di vapore caustico che avvolge il suo nemico.
 - d8: -2 ai tiri e 2 punti di danno CST, se fallito il TS -1d4 STR
 - d10: dura il doppio del tempo e se il mago resta concentrato la nuvola si può spostare ogni roud fra bersagli entro 10'
 - d12: la nuvola causa anche corrosione, l'equipaggiamento deve sostenere un check di sunder, se l'oggetto è metallico non ha effetto.
+
+
+# Paura
+
+# marcescenza
+
+# unseen servant
+
+# drain vital energy
+

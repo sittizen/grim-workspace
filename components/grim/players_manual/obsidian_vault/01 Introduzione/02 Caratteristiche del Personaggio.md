@@ -1,11 +1,15 @@
 
-**Valori di Abilità**
+**Caratteristiche**
 
-Le abilità rappresentano pregi e carenze nei principali aspetti fisici e mentali del personaggio, oltre al generico grado di attitudine naturale verso le abilità che da essi dipendono. Ogni personaggio è definito da sette caratteristiche : Forza, Destrezza, Conoscenza, Percezione, Costituzione, Carisma e Accuratezza
+Le caratteristiche rappresentano pregi e carenze nei principali aspetti fisici e mentali del personaggio, oltre al generico grado di attitudine naturale verso le abilità che da essi dipendono. Ogni personaggio è definito da sette caratteristiche : Forza, Destrezza, Conoscenza, Percezione, Costituzione, Carisma e Accuratezza
+
+**Abilità**
+
+Tutto quello che il personaggio può fare, check sulle caratteristiche, magie, talenti, manovre di combattimento ecc... 
 
 **Modificatori**
 
-*di check* : Valori che si applicano ai risultati in caso di check di caratteristica passati con successo, rappresentano la capacità di leverage sulle proprie abilità
+*di check* : Valori che si applicano ai risultati in caso di check di abilità passati con successo, rappresentano la capacità di leverage sulle proprie abilità
 
 *di reazione* : si applicano a check in risposta a situazioni di immediato pericolo, rappresentano le capacità istintive maturate in base alla classe
 
