@@ -22,16 +22,16 @@ Umani, Elfi, Nani, Halfling, Fate, Coboldi, Orchi, Gnoll, Goblin
 
 Il ruolo del personaggio all'interno del party. Ogni classe ha specifici vantaggi o debolezze nell'utilizzo delle caratteristiche, oltre a particolari talenti. Le classi principali sono : Guerriero, Chierico, Mago, Furfante. Ogni classe ha una serie di sottoclassi in base al percorso che si decide di intraprendere, ognuna definita da una caratteristica primaria e dalla possibilità di sfruttarla con grande efficacia in specifiche situazioni
 
-**Livello e Rango**
+**Livello**
 
 Il livello di una classe cresce con l'aumentare delle esperienze vissute dal personaggio. Un personaggio che non ha ancora intrapreso alcuna avventura è di livello zero, e diventa sempre più potente fino a livello nove.
-Ogni tre livelli si guadagna un rango I, II, o III
+
 
 **Punti Esperienza**
 
 L'avanzamento del personaggio all'interno del gioco è tracciato dai punti esperienza, che vengono assegnati in seguito a specifiche azioni / traguardi. Una volta accumulato un certo numero di punti esperienza il personaggio passa di livello.
 
-**Combattimento**
+**Dadi altri ( trovare un nome)**
 
 L'attitudine al combattimento di ogni classe è dettagliata da alcuni attributi specifici.
 
@@ -39,7 +39,7 @@ L'attitudine al combattimento di ogni classe è dettagliata da alcuni attributi 
 
 *Dado delle ferite* : rappresenta la capacità di arrecare danni mortali al nemico
 
-*Classe armatura* : rappresenta la capacità di evitare i colpi avversari o ignorarne il danno
+*Dado del velo* : rappresenta la possibilità di perdere il controllo della magia con effetti disastrosi
 
 **Velocità**
 

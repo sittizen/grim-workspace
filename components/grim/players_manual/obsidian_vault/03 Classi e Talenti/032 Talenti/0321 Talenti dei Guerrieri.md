@@ -1,0 +1,8 @@
+- vantaggio sui tiri per colpire su una coppia di size/type
+- -1 al malus delle combat stance
+- AC +1 CST +1
+- vantaggio con armi ranged
+- off hand weapon CA come scudo di size inferiore o dmg +1
+- huge weapons spread dmg
+- if they miss you do 1dmg with shield
+- 

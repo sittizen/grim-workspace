@@ -1,0 +1,6 @@
+- turn undead ( solo se legale , e i caotici ?)
+- detect magic items come un mago di livello inferiore
+- pray for, vantaggio a un check di altri ( +1 turno )
+- tend, vantaggio ai propri check di cura
+- smite, vantaggio ai tiri per colpire e danno di una certa categoria (non morti)
+- sermome, svantaggio ai check di altri ( un turno )
