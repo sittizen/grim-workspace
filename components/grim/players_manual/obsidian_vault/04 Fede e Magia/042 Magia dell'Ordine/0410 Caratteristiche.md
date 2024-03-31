@@ -1,0 +1,1 @@
+è sempre possibile decidere chi colpire e chi no in un'area d'effetto, tipicamente a parità di livello incantesimi fanno meno danni del chaos e riparano da più danni del chaos

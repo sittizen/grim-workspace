@@ -37,3 +37,6 @@ C’è sempre il rischio che l’esistenza cerchi di controbilanciare lo spostam
 
 
 I maghi imparano un incantesimo con un check INT continuo ogni due giorni fino a giorni pari al doppio del livello e difficoltà pari al rango, non resettante.  
+
+
+Oltre agli incantesimi ci sono i riti, hanno durate molto più lunghe e necessitano di piena concentrazione, ma sono molto più potenti. Ad esempio il piazzamento di rune.

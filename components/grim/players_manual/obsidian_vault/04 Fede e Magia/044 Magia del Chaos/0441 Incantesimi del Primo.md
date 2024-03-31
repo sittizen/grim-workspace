@@ -17,16 +17,16 @@ Il perimetro designato è reso impenetrabile a fonti di luce naturali e non, è 
 
 # Chill Touch
 
-Raggio: tocco  
-Durata: -  
-Costo: 1AP  
+Raggio: tocco
+Durata: - 
+Costo: 1AP
 Salva con: AoE  
 Vìola: Energia  
 
 Il mago crea energie negative attorno alle sue mani che si trasferiscono in vicinanza del bersaglio designato, causandogli ustioni da freddo.
 
 - d4: Il prossimo attacco causa 1d6 danni da freddo aggiuntivi(anche se il tiro per colpire non entra)
-- d6: Il prossimo attaccho viene eseguito con +2 al tiro per colpire 
+- d6: Il prossimo attaccho viene eseguito con +2 al tiro per colpire
 - d8: i danni sono ora 2d6
 - d10: oltre ai danni la creatura attaccata perde 1d4 Destrezza
 - d12: i bonus e gli effetti durano per un turno
@@ -47,6 +47,21 @@ Il mago evoca una nuvola di vapore caustico che avvolge il suo nemico.
 - d8: -2 ai tiri e 2 punti di danno CST, se fallito il TS -1d4 STR
 - d10: dura il doppio del tempo e se il mago resta concentrato la nuvola si può spostare ogni roud fra bersagli entro 10'
 - d12: la nuvola causa anche corrosione, l'equipaggiamento deve sostenere un check di sunder, se l'oggetto è metallico non ha effetto.
+
+
+# Faming Hands
+
+Raggio: 15'
+Durata: -
+Costo: 1AP
+Salva con: AoE
+Vìola: Energia
+
+- d4: 1d3 danni
+- d6: 1d6
+- d8: diventa un cono con base 5'
+- d10: due coni separati partono dalle mani
+- d12: con lvl * 10% probabilità il fuoco rimbalza da chi viene colpito a un target entro 5'
 
 
 # Paura

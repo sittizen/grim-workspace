@@ -11,6 +11,7 @@ The Order: protezione (vs chaos), status quo
 The Chaos : chaos (vs order), distruzione, cambiamento
 The Mind: pensiero, illusione, scoperta (vs green)
 
+
 I chierici possono lanciare incantesimi apparteneti alla sfera della loro divinità protettrice, possono tentare difficoltà al massimo pari al loro livello. Possono moltiplicare una delle misure dell'incantesimo alzando la difficoltà e usando un ulteriore AP.
 
 Non esistono chierici del pensiero, anzi, perseguendo un obiettivo di potenziamento personale delle razze mortali quasi tutte le divinità tendono ad ostacolarla attivamente.

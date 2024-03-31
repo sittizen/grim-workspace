@@ -23,3 +23,12 @@ Attacco : Check di STR o DXT
 - d6, svantaggio sul dado ferite
 - d8, nessuna modifica
 - d10, vantaggio sul dado ferite
+
+Ranghi delle Ferite:
+- 0, lieve 1
+- I, leggera 2-3
+- II, media 4-7
+- III, grave 8-9
+- IV, mortale 10+
+
+"ferito in modo x" significa che la somma delle ferite ricevute arriva ad un certo rango

@@ -33,7 +33,21 @@ Il mago evoca un'esplosione conica di uno o più colori che colpisce tutti bersa
 - d12: le creature con livello minore di quello del mago non possono salvare
 
 
+# Comprendere i Linguaggi
 
+Raggio: self
+Durata: 1 turno
+Costo: 1AP
+Salva con: -
+Vìola: Mente
+
+Il mago può leggere e capire linguaggi altrimenti sconosciuti
+
+- d4: vale per linguaggi non magici, in uso e provenienti dal piano materiale
+- d6: vale anche per lingue morte
+- d8: vale anche per linguaggi magici in uso
+- d10: vale anche per linguaggi magici e morti
+- d12: vale anche per crittografie applicate al linguaggio
 
 # bookspeak
 
@@ -45,7 +59,51 @@ Il mago evoca un'esplosione conica di uno o più colori che colpisce tutti bersa
 
 # understand contraption
 
-# ventriloquismo
+# Ventriloquismo
 
-# blur
+Raggio: 30'
+Durata: 1 round
+Costo: 1AP
+Salva con: MfX
+Vìola: energia
 
+Il caster può far provenire la sua voce da un altro punto visibile, il tiro salvezza permette di individuare la posizione del mago
+
+- d4: 
+- d6: può fingere un'altra voce conosciuta
+- d8: voce o suono di volume adeguato ( non esplosioni ad esempio) 
+- d10: sconosciuta ma corretta per una creatura in vista
+- d12: suoni anche di grandi volumi
+
+
+# Blur
+
+Raggio: 10'
+Durata: 1 turno per rango
+Costo: 1AP
+Save: MfX
+Vìola: Energia
+
+Una creatura od oggetto appare sfuocata fino a rendere difficile capirne la posizione con precisione
+
+- d4: CA vs ranged +1
+- d6: +2
+- d8; +3
+- d10: +4
+- d12: +5 e se si fallisce il TS stordito per 1 round per rango
+
+# Ward Portal
+
+Raggio: 10'
+Durata: 1 turno per rango 
+Costo: 1AP
+Save: no
+Vìola: Energia
+
+Fa in modo che una porta si chiuda
+
+- d4: chiude una serratura esistente per porte
+- d6: e portoni
+- d8: e cancelli
+- d10: anche se non esiste serratura
+- d12: cercare di sfondarla torna 1d4 danni crush

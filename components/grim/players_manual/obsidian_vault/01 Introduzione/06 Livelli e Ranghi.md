@@ -34,17 +34,10 @@ Il livello di un personaggio, mostro o incantesimo
 L’esperienza viene assegnata in base al raggiungimento degli obiettivi che si danno i personaggi ( trovare il secondo livello del dungeon, liberare i boschi dalla viverna… )
 Al passaggio di livello si può scegliere un nuovo talento
 	
-- Ogni 6 hex o 6 stanze traversati: 1PX
-- Ogni hex esplorato: 1PX
-- Ogni hex messo in sicurezza: 2PX
-- Superamento di un incontro con nome: 2PX * rank
+- Ogni hex esplorato: 1PX per livello di rischio dell'hex
+- Ogni hex messo in sicurezza: 2PX per livello di rischio dell'hex
 - Risoluzione di un obiettivo: 3PX * rank
 - Risoluzione di una quest: 6PX * rank
 - Messa in sicurezza di un centro abitato ( il suo hex più i circostanti) : - 6PX
 - Confermare o smentire un rumor: 1PX
 - Scoprire un punto d’interesse: 1PX
-- Ottenere un vantaggio da un NPC: 1PX
-- Ottenere il supporto di una fazione, o invalidarne i piani: PX
-- Trap: Overcome a trap - Minor 2%, Major 5%
-- Puzzle: Solve a puzzle - Minor 2%, Major 5%
-- Secret: Find a secret or interpret hidden lore - 2%
