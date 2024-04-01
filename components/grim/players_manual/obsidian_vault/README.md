@@ -1,4 +1,4 @@
-# Grim
+# Grim - Player's Manual
 
 ## Introduzione
 
