@@ -1,0 +1,1 @@
+# [Player's Manual](../../../components/grim/players_manual/obsidian_vault/README.md)

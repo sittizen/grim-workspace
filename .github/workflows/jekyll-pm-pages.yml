@@ -33,7 +33,8 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./components/grim/players_manual/obsidian_vault
+          #source: ./components/grim/players_manual/obsidian_vault
+          source: ./bases/grim/docs
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
