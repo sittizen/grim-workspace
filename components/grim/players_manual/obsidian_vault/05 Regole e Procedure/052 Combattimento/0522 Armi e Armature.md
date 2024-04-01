@@ -55,7 +55,7 @@ Poi si tira un dado di ferita per trovare a cosa si applica il danno ed eventual
 |5 sunder| - | 1 | 1d2 | 1d3 |
 |6-7 braccia| STR | STR -1DST | STR -1d4DST| STR -2d4DST|
 |8-9 gambe| DST | DST -1CST | DST -1d4CST | DST -2s4CST|
-|10-11 ventre |CST|CST -1STR| CST -1d4STR| CST -2d4STR|
+|10-11 vital |CST+1|CST+1 -2STR| CST+2 -1d4STR| CST+3 -2d4STR|
 |12 roll and double|||||
 
 In caso di "sunder" si tira un dado sull'equipaggiamento veloce e quell'oggetto è distrutto, quell'arma o armatura prende -1 ( a zero è distrutta )

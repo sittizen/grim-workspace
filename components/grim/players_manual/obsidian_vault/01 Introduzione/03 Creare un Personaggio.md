@@ -5,7 +5,7 @@ Segnare sulla scheda eventuali modificatori di check negativi, mettere tutti i m
 
 Segnare +1 ad ogni modificatore di reazione.
 Segnare 8 alla classe armatura.
-Segnare d8 per il dado di iniziativa, d12 per il dado di ferita.
+Segnare d8 per il dado di iniziativa, d10 per il dado delle ferite.
 Segnare aggressive stance a +2AB e -4AC
 Segnare Defesive stance a +2AC e -4AB
 Segnare 0 riposte
