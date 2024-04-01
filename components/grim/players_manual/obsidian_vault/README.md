@@ -60,18 +60,22 @@
 ### Magia dell'Ordine
 
 - [Incantesimi del Primo](./04%20Fede%20e%20Magia/042%20Magia%20dell'Ordine/0411%20Incantesimi%20del%20Primo)
+- [Incantesimo del Scondo](./04%20Fede%20e%20Magia/042%20Magia%20dell'Ordine/0412%20Incantesimi%20del%20Secondo)
 
 ### Magia del Verde
 
 - [Incantesimi del Primo](./04%20Fede%20e%20Magia/043%20Magia%20del%20Verde/0431%20Incantesimi%20del%20Primo)
+- [Incantesimo del Secondo](./04%20Fede%20e%20Magia/043%20Magia%20del%20Verde/0432%20Incantesimi%20del%20Secondo)
 
 ### Magia del Chaos
 
 - [Incantesimi del Primo](./04%20Fede%20e%20Magia/044%20Magia%20del%20Chaos/0441%20Incantesimi%20del%20Primo)
+- [Incantesimo del Secondo](./04%20Fede%20e%20Magia/044%20Magia%20del%20Chaos/0442%20Incantesimo%20del%20Secondo)
 
 ### Magia della Mente
 
 - [Incantesimi del Primo](./04%20Fede%20e%20Magia/045%20Magia%20della%20Mente/0451%20Incantesimi%20del%20Primo)
+- [Incantesimo del Seconod](./04%20Fede%20e%20Magia/045%20Magia%20della%20Mente/0452%20Incantesimi%20del%20Secondo)
 
 
 ## Regole e Procedure
