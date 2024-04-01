@@ -1,0 +1,8 @@
+# Animali
+
+i normali animali hanno int che va da 0 a 3
+
+0 - istinto puro, fight or flight unica reazione possibile
+1 - istinto con qualche possibilità di addestramento
+2 - cani gatti cavalli corvi
+3 - scimmie
