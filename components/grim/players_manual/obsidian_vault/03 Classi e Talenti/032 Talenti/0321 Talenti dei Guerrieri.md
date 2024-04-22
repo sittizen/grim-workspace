@@ -5,4 +5,6 @@
 - off hand weapon CA come scudo di size inferiore o dmg +1
 - huge weapons spread dmg
 - if they miss you do 1dmg with shield
-- 
+- berserk, ogni round vantaggio per colpire e ai danni ma check MfX o perde 1d4 PER, a zero PER attacca sempre fino alla morte. I punti sono recuperati con 1d4 turni di riposo. Serve check passato anche per dichiarare di volerne uscire.
+- maestro di parate, sunder a armatura o scudo non hanno effetto
+- sacrifice, puoi spendere n punti di forza per fare nd4 danni magici a tutti i nemici in 30'. Si riprendono normalmente nel tempo.

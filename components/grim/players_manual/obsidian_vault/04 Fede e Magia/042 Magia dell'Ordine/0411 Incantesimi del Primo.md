@@ -6,6 +6,19 @@
 
 # hold portal
 
+Raggio: 10'
+Durata:
+Costo: 1AP
+Vìola: Materia
+
+Rende impossibile il passaggio da un ingresso
+
+-d4: grandezza di una porta, può essere ancora sfondata in base alla resistenza della porta ma con svantaggio
+-d6: non può essere aperta se non con magia
+-d8: non può essere aperta nemmeno con magia
+-d10: diventa un passaggio segreto
+-d12: diventa un passaggio segreto, invisibile
+
 # Mending
 
 Raggio: 0'

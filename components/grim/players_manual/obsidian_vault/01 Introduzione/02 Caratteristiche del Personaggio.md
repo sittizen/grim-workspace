@@ -9,9 +9,9 @@ Tutto quello che il personaggio può fare, check sulle caratteristiche, magie, t
 
 **Modificatori**
 
-*di check* : Valori che si applicano ai risultati in caso di check di abilità passati con successo, rappresentano la capacità di leverage sulle proprie abilità
+*di check* : Valori che si applicano ai risultati in caso di check di abilità, rappresentano la capacità di leverage sulle proprie abilità (Atk, )
 
-*di reazione* : si applicano a check in risposta a situazioni di immediato pericolo, rappresentano le capacità istintive maturate in base alla classe
+*di reazione* : si applicano a check in risposta a situazioni di immediato pericolo, rappresentano le capacità istintive maturate in base alla classe o impedimenti per equipaggiamento o capacità dell'avversario (Saves, AC)
 
 **Razza**
 

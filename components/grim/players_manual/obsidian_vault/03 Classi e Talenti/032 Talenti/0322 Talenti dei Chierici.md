@@ -4,3 +4,9 @@
 - tend, vantaggio ai propri check di cura
 - smite, vantaggio ai tiri per colpire e danno di una certa categoria (non morti)
 - sermome, svantaggio ai check di altri ( un turno )
+- arma bendetta, vantaggio ai tiri per colpire
+- assoluzione, recupera tutti danni INT e PER con una notte di riposo
+- sanctuary, finchè concentrato crea cubo di forza per lvl turni
+- healer, hai talento ai check di cura
+- demonic invocation, dura un turno, puoi perdere n PER e poi fare in TS, se salvi riprendi i PER e riguadagni n lanci di incantesimi , solo caotici
+- prayer , dura un turno, recuperi un incantesimo o hai vantaggio aggiuntivo a un check, non caotici
