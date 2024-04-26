@@ -35,8 +35,8 @@ C’è sempre il rischio che l’esistenza cerchi di controbilanciare lo spostam
 - 10 - 11 : esplosione, come backfire, ma per chiunque in un raggio attorno al mago pari a 10' per rango della difficoltà provata. Se l'incantesimo permette un save le creature salvo il mago possono tentarlo.
 - 12 : disastro, come esplosione, ma in un raggio doppio e con un rango superiore
 
+Tutte le misure specificate nella descrizione di un incantesimo sono da intendersi "fino a", il mago può sempre decidere di diminuirle.
 
 I maghi imparano un incantesimo con un check INT continuo ogni due giorni fino a giorni pari al doppio del livello e difficoltà pari al rango, non resettante.  
-
 
 Oltre agli incantesimi ci sono i riti, hanno durate molto più lunghe e necessitano di piena concentrazione, ma sono molto più potenti. Ad esempio il piazzamento di rune.
