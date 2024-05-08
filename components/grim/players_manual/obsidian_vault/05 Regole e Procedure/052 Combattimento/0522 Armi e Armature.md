@@ -38,24 +38,28 @@ Il risultato del dado dell'arma si incrocia qui per il danno e la descrizione
 
 |rank|dmg|slash|pierce|crush|
 |-|-|-|-|-|
-|I|1|graffia|pizzica|||
-|I|2-3|taglia|||
-|II|4|affetta|buca|||
-|II|5-7|apre|||
-|III|8|recide|perfora|crush|
-|III|9-11|mutila|trapassa||
-|IV|12+|amputa|||
+|I|1|graffia|pizzica|colpisce|
+||2-3|taglia||
+|II|4|affetta|buca|scheggia|
+||5-7|apre||spacca|
+|III|8|recide|perfora|frattura|
+||9-11|mutila|trapassa|sfonda|
+|IV|12+|amputa||
 
-Poi si tira un dado di ferita per trovare a cosa si applica il danno ed eventuali effetti aggiuntivi
+Poi si tira un dado di ferita per trovare a cosa si applica il danno ed eventuali effetti aggiuntivi. 
 
-||I (1-3)|II (4-7)|III (8-11)|IV (12+)|
-|-|-|-|-|-|
-|1 testa|WIS|WIS -1INT| WIS -1d4INT -2d4CST| WIS -1d4INT -3d4CST|
-|2-4 torso |CST|CST -1STR|CST -1d4STR|CST -2d4STR|
-|5 sunder| - | 1 | 1d2 | 1d3 |
-|6-7 braccia| STR | STR -1DST | STR -1d4DST| STR -2d4DST|
-|8-9 gambe| DST | DST -1CST | DST -1d4CST | DST -2s4CST|
-|10-11 vital |CST+1|CST+1 -2STR| CST+2 -1d4STR| CST+3 -2d4STR|
-|12 roll and double|||||
+||I (1-3)|II (4-7)|III (8-11)|IV (12+)|Scar|
+|-|-|-|-|-|-|
+|1 testa +rank danni|WIS|WIS -1INT| WIS -1d4INT -2d4CST| WIS -1d4INT -3d4CST|scar|
+|2-4 torso |CST|CST -1STR|CST -1d4STR|CST -2d4STR|bloody mess, lose 1CST every day until professionally cured|
+|5 sunder| - | 1 | 1d2 | 1d3 |advantage for the sunder roll|
+|6-7 braccia| STR | STR -1DST | STR -1d4DST| STR -2d4DST|torned, attribute lowered permanently|
+|8-9 gambe| DST | DST -1CST | DST -1d4CST | DST -2s4CST|torned|
+|10-11 vital |CST+1|CST+1 -2STR| CST+2 -1d4STR| CST+3 -2d4STR|bloody mess, lose 2CST until|
+|12 reroll e vantaggio sul danno secondario||||||
 
 In caso di "sunder" si tira un dado sull'equipaggiamento veloce e quell'oggetto è distrutto, quell'arma o armatura prende -1 ( a zero è distrutta )
+
+
+
+

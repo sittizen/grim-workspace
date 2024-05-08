@@ -30,7 +30,7 @@ C’è sempre il rischio che l’esistenza cerchi di controbilanciare lo spostam
 - 3 - 6 : il mago dimentica l'incantesimo, fino al prossimo riposo non può più lanciarlo
 - 7 - 9 : backfire
     - Energia : il mago subisce una ferita come fosse colpito da un'arma di rango pari alla difficoltà tentata e tipo adeguato al tipo di incantesimo
-    - Pensiero : il mago resta confuso ed incapace di compiere azioni per un numero di round pari al rango della difficoltà tentata
+    - Pensiero : il mago resta confuso ed incapace di compiere azioni per un numero di round pari al rango della difficoltà tentata, o subisce gli effetti dell'incantesimo se applicabile
     - Materia : gli effetti dell'incantesimo si applicano al corpo del mago, durano per un numero di round pari al rango della difficoltà tentata
 - 10 - 11 : esplosione, come backfire, ma per chiunque in un raggio attorno al mago pari a 10' per rango della difficoltà provata. Se l'incantesimo permette un save le creature salvo il mago possono tentarlo.
 - 12 : disastro, come esplosione, ma in un raggio doppio e con un rango superiore

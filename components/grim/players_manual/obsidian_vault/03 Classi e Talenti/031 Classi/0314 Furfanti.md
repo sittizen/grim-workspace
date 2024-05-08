@@ -15,7 +15,7 @@ Saves : AoE -1 Mfx -1
 
 caratteristica principale: Accuratezza
 
-- vantaggio su piazzare o disattivare trappole e meccanismi
+- vantaggio su piazzare o disattivare trappole e meccanismi. In caso di fallimento la trappola non scatta.
 
 #### 1 Lvl Equipment:
 ||I roll|II roll|III roll|

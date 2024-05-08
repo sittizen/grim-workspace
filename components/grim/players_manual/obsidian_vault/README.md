@@ -54,8 +54,8 @@
 
 ### Divintà e Stregoneria
 
-- [L'intervento delle Divinità](./04%20Fede%20e%20Magia/041%20Divinità%20e%20Stregonieria/0411%20L'Intervento%20delle%20Divinità)
-- [Lo studio della Magia](./04%20Fede%20e%20Magia/041%20Divinità%20e%20Stregonieria/0412%20Lo%20studio%20della%20Magia)
+- [L'intervento delle Divinità](./04%20Fede%20e%20Magia/041%20Divinità%20e%20Stregoneria/0411%20L'Intervento%20delle%20Divinità)
+- [Lo studio della Magia](./04%20Fede%20e%20Magia/041%20Divinità%20e%20Stregoneria/0412%20Lo%20studio%20della%20Magia)
 
 ### Magia dell'Ordine
 

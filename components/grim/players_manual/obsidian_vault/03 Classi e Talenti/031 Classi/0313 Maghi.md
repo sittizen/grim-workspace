@@ -70,4 +70,9 @@ Lvl 1:
 - 
 
 
+# Summoner
+
+- siccome gli dei di un certo allineamento hanno interesse a portare avanti un certo scopo le creature minori del piano spirituale sono di solito favorevoli all'essere evocate per portare avanti compiti voluti dal mago
+
+
 A lvl 0 conosci un solo incantesimo del primo e lo puoi lanciare una volta sola

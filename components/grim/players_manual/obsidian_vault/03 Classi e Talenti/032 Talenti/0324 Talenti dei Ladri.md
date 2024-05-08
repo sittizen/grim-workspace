@@ -10,4 +10,5 @@
 - vantaggio sulla seduzione
 - Awareness, +2 ai tiri di perception passivi
 - furia finale, armi piccole, fai tre attacchi consecutivi, il prossimo round non attacchi e gli avversari hanno vantaggio
+- recuperare trappole disattivate
 
