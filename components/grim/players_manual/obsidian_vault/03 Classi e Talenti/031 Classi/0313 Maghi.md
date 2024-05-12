@@ -1,3 +1,6 @@
+![Maghi](../../assets/img/wizard.webp)
+
+
 ## Modifiche di classe
 Iniziativa: 1 sopra
 Saves: AoE +1, Mfx -2
