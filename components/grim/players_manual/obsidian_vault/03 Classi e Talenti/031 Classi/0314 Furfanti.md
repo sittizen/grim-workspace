@@ -7,7 +7,7 @@ Saves : AoE -1 Mfx -1
 
 #### Funnel Equipment:
 ||I roll|II roll|III roll|
-|-|-|-|-|
+|---|---|---|---|
 |1|dagger|acid|tarot deck|
 |2||sleep potion||
 |3||||
@@ -22,7 +22,7 @@ caratteristica principale: Accuratezza
 
 #### 1 Lvl Equipment:
 ||I roll|II roll|III roll|
-|-|-|-|-|
+|---|---|---|---|
 |1||tool per scassinare|bullseye lantern|
 |2|grappling hook|acido|olio scivoloso|
 |3||||
@@ -36,7 +36,7 @@ caratteristica principale: Destrezza
 
 #### 1 Lvl Equipment:
 ||I roll|II roll|III roll|
-|-|-|-|-|
+|---|---|---|---|
 |1|coltello da stivale|veleno||
 |2||||
 |3||||
@@ -50,7 +50,7 @@ caratteristica principale: Carisma
 
 #### 1 Lvl Equipment:
 ||I roll|II roll|III roll|
-|-|-|-|-|
+|---|---|---|---|
 |1|sling and bullets|||
 |2||||
 |3||||

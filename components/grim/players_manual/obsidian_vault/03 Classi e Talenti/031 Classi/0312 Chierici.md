@@ -8,7 +8,7 @@ Il chierico ottiene gli incantesimi per grazia divina, può sempre decidere cosa
 
 #### Funnel Equipment:
 ||I roll|II roll|III roll|
-|-|-|-|-|
+|---|---|---|---|
 |1|mace and shield||deity symbol|
 |2||||
 |3||||
@@ -21,7 +21,7 @@ caratteristica principale: Percezione
 
 #### 1 Lvl Equipment:
 ||I roll|II roll|III roll|
-|-|-|-|-|
+|---|---|---|---|
 |1|flail||sigil of dispel magic|
 |2||||
 |3||||
@@ -35,7 +35,7 @@ caratteristica principale: Carisma
 
 #### 1 Lvl Equipment:
 ||I roll|II roll|III roll|
-|-|-|-|-|
+|---|---|---|---|
 |1|||healing kit|
 |2||pozione di guarigione|acquasanta|
 |3||||
@@ -49,7 +49,7 @@ caratteristica principale: Carisma
 
 #### 1 Lvl Equipment:
 ||I roll|II roll|III roll|
-|-|-|-|-|
+|---|---|---|---|
 |1||||
 |2||||
 |3||||

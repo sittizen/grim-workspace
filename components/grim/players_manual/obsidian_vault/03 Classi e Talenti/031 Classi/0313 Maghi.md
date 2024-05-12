@@ -12,7 +12,7 @@ I maghi possono imparare senza limiti ogni tipi di incantesimo, possono però te
 
 #### Funnel Equipment:
 ||I roll|II roll|III roll|
-|-|-|-|-|
+|---|---|---|---|
 |1|knife||reading glasses|
 |2|||book of planetary charts|
 |3||||
@@ -26,7 +26,7 @@ caratteristica principale: Intelligenza
 
 #### 1 Lvl Equipment:
 ||I roll|II roll|III roll|
-|-|-|-|-|
+|---|---|---|---|
 |1||potion of blur||
 |2||||
 |3||||
@@ -40,7 +40,7 @@ caratteristica principale: Intelligenza
 
 #### 1 Lvl Equipment:
 ||I roll|II roll|III roll|
-|-|-|-|-|
+|---|---|---|---|
 |1|||tanglefoot bag|
 |2||||
 |3||||
@@ -55,7 +55,7 @@ caratteristica principale: Percezione
 
 #### 1 Lvl Equipment:
 ||I roll|II roll|III roll|
-|-|-|-|-|
+|---|---|---|---|
 |1||||
 |2||||
 |3||||
