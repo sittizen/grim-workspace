@@ -1,3 +1,6 @@
+![Furfanti](../../assets/img/rogue.webp)
+
+
 ## modifiche di classe
 Iniziativa: 1 sotto
 Saves : AoE -1 Mfx -1

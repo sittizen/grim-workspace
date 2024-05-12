@@ -1,4 +1,7 @@
-# Modifiche di classe
+![Guerrieri](../../assets/img/fighter.webp)
+
+
+## Modifiche di classe
 Init dice: uno sotto  
 Saves: Pa -1 , Mfx +1  
 Malus delle combat stance: -1   
@@ -9,8 +12,8 @@ Dado delle Ferite: 1 sopra
 |-|--|--|--|
 |1|arma media e scudo|heavy cloth armor|10m di corda|
 |2|arma grande |soft leather armor||
-|3|||
-|4|||
+|3||||
+|4||||
 
 ## Knight
 

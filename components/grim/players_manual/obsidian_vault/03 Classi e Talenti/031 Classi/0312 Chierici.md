@@ -1,3 +1,6 @@
+![Chierici](../../assets/img/cleric.webp)
+
+
 ## Modifiche di classe
 Saves: Mfx -1
 
