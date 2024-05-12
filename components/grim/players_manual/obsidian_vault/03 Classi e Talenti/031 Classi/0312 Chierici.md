@@ -7,6 +7,7 @@ Saves: Mfx -1
 Il chierico ottiene gli incantesimi per grazia divina, può sempre decidere cosa lanciare tra tutti gli incantesimi che conosce ma non ha modo di impararne di nuovi, gli vengono concessi in seguito a quest.
 
 #### Funnel Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1|mace and shield||deity symbol|
@@ -20,6 +21,7 @@ caratteristica principale: Percezione
 - Vantaggio all'interpretazione dei motivi altrui
 
 #### 1 Lvl Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1|flail||sigil of dispel magic|
@@ -34,6 +36,7 @@ caratteristica principale: Carisma
 
 
 #### 1 Lvl Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1|||healing kit|
@@ -48,6 +51,7 @@ caratteristica principale: Carisma
 ## Paladin
 
 #### 1 Lvl Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1||||

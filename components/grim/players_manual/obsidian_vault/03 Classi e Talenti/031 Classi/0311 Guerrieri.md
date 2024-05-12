@@ -40,6 +40,7 @@ caratteristica principale: Destrezza
 
   
 #### Lvl 1 Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1||pozione di velocità|1d4 frecce incendiarie|
@@ -58,6 +59,7 @@ inoltre:
 
   
 #### Lvl 1 Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1|long bow|frusta||

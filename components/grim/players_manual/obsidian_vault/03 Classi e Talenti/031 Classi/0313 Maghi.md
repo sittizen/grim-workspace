@@ -11,6 +11,7 @@ Detect magic con un check di int complicato dal rango dello spell
 I maghi possono imparare senza limiti ogni tipi di incantesimo, possono però tenerne memorizzati ogni giorno solo un certo numero
 
 #### Funnel Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1|knife||reading glasses|
@@ -25,6 +26,7 @@ caratteristica principale: Intelligenza
 - Vantaggio alle prove di conoscenza , in relazione a cose che si possono essere studiate
 
 #### 1 Lvl Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1||potion of blur||
@@ -39,6 +41,7 @@ caratteristica principale: Intelligenza
 
 
 #### 1 Lvl Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1|||tanglefoot bag|
@@ -54,6 +57,7 @@ caratteristica principale: Percezione
 
 
 #### 1 Lvl Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1||||

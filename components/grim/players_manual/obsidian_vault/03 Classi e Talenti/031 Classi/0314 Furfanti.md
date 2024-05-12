@@ -6,6 +6,7 @@ Iniziativa: 1 sotto
 Saves : AoE -1 Mfx -1
 
 #### Funnel Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1|dagger|acid|tarot deck|
@@ -21,6 +22,7 @@ caratteristica principale: Accuratezza
 - vantaggio su piazzare o disattivare trappole e meccanismi. In caso di fallimento la trappola non scatta.
 
 #### 1 Lvl Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1||tool per scassinare|bullseye lantern|
@@ -35,6 +37,7 @@ caratteristica principale: Destrezza
 - vantaggio su nascondersi, cogliere di sorpresa
 
 #### 1 Lvl Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1|coltello da stivale|veleno||
@@ -49,6 +52,7 @@ caratteristica principale: Carisma
 - vantaggio sulle prove di carousing e parley
 
 #### 1 Lvl Equipment:
+
 ||I roll|II roll|III roll|
 |---|---|---|---|
 |1|sling and bullets|||
