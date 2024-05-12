@@ -2,8 +2,8 @@
 
 ## Introduzione
 
-- [Terminologia](./01%20Introduzione/01%20Terminologia)
-- [Caratteristiche del Personaggio](./01%20Introduzione/02%20Caratteristiche%20del%20Personaggio)
+- [Le fondamenta del Gioco](./01%20Introduzione/01)
+- [Definizione del Personaggio](./01%20Introduzione/02%20Definizione%20del%20Personaggio)
 - [Creare un Personaggio](./01%20Introduzione/03%20Creare%20un%20Personaggio)
 - [Esempio di creazione del Personaggio](./01%20Introduzione/04%20Esempio%20di%20creazione%20del%20Personaggio)
 - [Abilità](./01%20Introduzione/05%20Abilità)

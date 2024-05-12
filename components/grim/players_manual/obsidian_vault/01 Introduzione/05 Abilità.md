@@ -1,18 +1,14 @@
 
 
-Sono le misure fondamentali che caratterizzano il personaggio:
-rappresentano pregi e carenze nei principali aspetti fisici e mentali del personaggio, oltre al generico grado di attitudine naturale verso le abilità che da essi dipendono (diverse classi e livelli di esperienza sono in grado di sfruttare diversamente le proprie caratteristiche).
-
-
-| Ability Score |                            |
-| ------------- | -------------------------- |
-| 3-            | <1% della popolazione      |
-| 4-5           | 5% circa della popolazione |
+| Valore di Caratteristica | Frequenza |
+| ------------- | ------------------------ |
+| 3-            | 1% della popolazione      |
+| 4-5           | 5% della popolazione |
 | 6-8           | Individui nella norma      |
 | 9-12          |                            |
 | 13-15         |                            |
 | 16-17         | 5% circa della popolazione |
-| 18+           | <1% della popolazione      |
+| 18+           | 1% della popolazione      |
 
   
 
@@ -140,7 +136,7 @@ Applica il suo modifier a :
 **Modificatori di Abilità**
 A valori di caratteristica particolarmente alti o bassi corrispondono modificatori negativi o positivi che possono applicarsi o meno ai risultati dei check di abilità. In generale il valore è cappato dal rank del personaggio.
 
-| Ability Score | Modifier |
+| Score | Modifier |
 | ------------- | -------- |
 | 3-            | -3       |
 | 4-5           | -2       |
@@ -148,7 +144,8 @@ A valori di caratteristica particolarmente alti o bassi corrispondono modificato
 | 9-12          | 0        |
 | 13-15         | +1       |
 | 16-17         | +2       |
-| 18+           | +3       |
+| 18            | +3       |
+| 19+           | +4       |
 
 **Modificatori di Reazione**
 
