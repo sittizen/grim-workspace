@@ -24,6 +24,10 @@ Attacco : Check di STR o DXT
 - d8, nessuna modifica
 - d10, vantaggio sul dado ferite
 
+Un attacco fallito scatena un attacco di riposte dell'avversario.
+
+puoi essere colpito senza conseguenze per il tuo rank
+
 Ranghi del danno:
 - I, light 1-3
 - II, medium 4-7

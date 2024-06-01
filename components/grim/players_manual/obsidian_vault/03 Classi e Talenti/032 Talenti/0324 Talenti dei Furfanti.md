@@ -1,4 +1,9 @@
 - I know a guy
+
+Check su charisma per conoscere un asset in un posto ?
+Limitare in base al modifier / livello e aumentare la difficoltà allontanandosi dalla base ? ( implica che c’è una base, ci piace ? )
+
+
 - il primo round dopo aver colto il nemico di sorpresa ha vantaggio su AB ed eventuale WOUND con armi scelte fra il suo rango
 - vantaggio su hit dmg con armi small
 - on hit mark del bersaglio, il bersaglio marcato ha svantaggio per il round successivo

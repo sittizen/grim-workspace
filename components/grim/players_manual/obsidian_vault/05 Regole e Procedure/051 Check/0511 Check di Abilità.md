@@ -5,9 +5,6 @@ In generale i check vengono fatti con la somma di due dadi, cercando di stare so
 
 - Difficulty Dice, rappresenta l’oggettiva difficoltà dell’azione che si vuole compiere. Diversi dadi da d6 a d12 vengono utilizzati a seconda della difficoltà
 
-Tutte le attività sono risolte col meccanismo del check vs caratteristica, ma in alcuni casi si usano combinazioni diverse di dadi. 
-
-
 Inoltre la qualità del risultato va interpretata nel modo seguente
 - Se il risultato è minore al valore di abilità e i due dadi hanno lo stesso valore il risultato ha esiti migliori del previsto
 - Se il risultato è minore al valore di abilità il check ha successo
@@ -36,16 +33,33 @@ Ad esempio :
 	1round : 3-,2I
 
 Significa che posso provare un check ogni round, devo passarne 3 facili e due normali prima che il check nel suo complesso sia giudicato passato ( ad esempio cerco di capire il funzionamento di un meccanismo e poi lo aziono )
-1turno: 2I,1II,R
 
+1turno: 2I,1II,R
 Cerco di disinnescare una trappola molto complicata, fatta in modo che se tocco qualcosa di sbagliato il meccanismo si resetta
 I reset possono capitare in qualsiasi punto della catena
-	1turno: 3-,R,2II
+	
+1turno: 3-,R,2II
 Faccio delle prove per capire un meccanismo, se sbaglio devo ricominciare ma una volta che è capito è capito. Sbagliare il disinnesco con le due prove difficili non mi resetta a dover rifare le tre prove facili.
 
 
-Non esiste un sistema di skill, sta al giudizio del Dungeon Master decidere l’efficacia delle stesse in base alla situazione e al background del personaggio. Ad esempio uno studioso di testi antichi con un alto valore di intelligenza potrebbe tentare con facilità la traduzione di rune naniche ma avere speranze quasi nulle nel capire il funzionamento del meccanismo che decorano.
+Check opposti, situazioni di attrito tra due personaggi attivi:
+
+Entrambi fanno un check normale:
+Win win , se PC vs NPC ci riesci ma … se fra due PC ritira
+Win lose , ci riesci
+Lose win , non ci riesci
+Lose lose, attrito, perdi 1 nell’abilità e ritira
+
+
+Non esiste un sistema di skill, sta al giudizio del Dungeon Master decidere l’efficacia delle stesse in base alla situazione e al background del personaggio, che viene costruito durante il gioco in questo modo:
+Ogni personaggio inizia con due punti storia nell’abilità principale e un punto storia nella seconda abilità con punteggio maggiore. Quando si passa un check difficile o più si può decidere di giustificare il successo tramite un background. In quel caso si spende un punto e si aggiunge l’informazione di backround alla scheda, da quel momento check relativi a quel background scendono di un livello per quel personaggio.
+Ad esempio uno studioso di testi antichi con un alto valore di intelligenza potrebbe tentare con facilità la traduzione di rune naniche ma avere speranze quasi nulle nel capire il funzionamento del meccanismo che decorano.
+
 
 In caso di check di gruppo conta l’abilità del PG meglio dotato se check attivi e quello meno se check passivi.
 
-In caso di check attivi I personaggi possono “aiutare” dando un bonus fino al loro modifier al costo di aumentare il tempo di check
+In caso di check attivi I personaggi possono “aiutare” dando un bonus fino al loro modifier al costo di aumentare il tempo di check di una unità
+
+
+
+

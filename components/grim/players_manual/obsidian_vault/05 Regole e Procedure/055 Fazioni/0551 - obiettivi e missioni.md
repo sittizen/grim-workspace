@@ -1,3 +1,11 @@
+Clero
+Governo / nobiltà
+Guardie / esercito
+Mercanti / banche
+Lavoratori manuali / popolo
+
+
+
 Resources are the unique strengths and capabilities of a faction. These could be specialized forces or magical artifacts, underpinning its ability to pursue objectives.
 Goals outline the long-term ambitions a faction seeks to achieve, providing a strategic direction for its efforts. These broad outcomes shape the faction's narrative within the game.
     - controllo L
