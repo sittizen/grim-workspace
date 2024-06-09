@@ -16,4 +16,6 @@ Limitare in base al modifier / livello e aumentare la difficoltà allontanandosi
 - Awareness, +2 ai tiri di perception passivi
 - furia finale, armi piccole, fai tre attacchi consecutivi, il prossimo round non attacchi e gli avversari hanno vantaggio
 - recuperare trappole disattivate
+- When you’re lost, you can read the
+magic in the stars.
 

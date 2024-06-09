@@ -6,4 +6,6 @@
 - +2 to Mfx
 - sixth sense, +2 ai tiri di perception attivi
 - conosci un incantesimo da 1AP così bene che puoi lanciarlo come reazione (max rango lvl )
+You can see the remnants of recent
+spells, rituals, or tricks.
 
