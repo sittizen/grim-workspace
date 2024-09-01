@@ -27,13 +27,9 @@ Costituzione: 16
 Carisma: 9
 Accuratezza: 8
 
-**3 - Decidere un allineamento**
+**3 - Scegliere una classe**
 
-sceglie di essere neutrale
-
-**4 - Scegliere una classe**
-
-sceglie di essere un Chierico, dato il suo allineamento potrà accedere agli incantesimi del verde, legati alla natura
+sceglie di essere un Chierico votato a un dio della natura, per questo potrà lanciare incantesimi del Verde.
 
 **5 - Personaggio di livello 1**
 

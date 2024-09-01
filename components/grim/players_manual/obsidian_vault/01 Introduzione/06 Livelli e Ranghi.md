@@ -40,14 +40,6 @@ Al passaggio di livello si può scegliere un nuovo talento
 - Messa in sicurezza di un centro abitato ( il suo hex più i circostanti) : - 6PX
 - Confermare o smentire un rumor: 1PX
 - Scoprire un punto d’interesse: 1PX
+- Superare un livello di un punto d'interesse: 1PX x rango del livello
 
-
-La linea in realtà è la sua, ci faccia capire lei se non capiamo:
-
-"Il tutto smetterebbe molto rapidamente se Hamas deponesse le armi e si arrendesse" quindi i civili vittime sono "colpa" di hamas da entrambi i lati del conflitto (suppongo sia il suo ragionamento, mi segue ?)
-
-Questo (immagino) in quanto è hamas l'aggressore "originale" mentre Israele usa la violenza per difendere un suo diritto (la restituzione dei civili). Non si può incolpare Israele delle vittime civili, a prescindere dalla misura della sua reazione, perchè è dovuta ad una colpa originale di Hamas. 
-
-Immagino quindi ci sia una sorta di "misura di tradeoff": se mi causi un danno illecito X la mia reazione può essere una combinata di lecita Y (scovare hamas) + illecita f(X) (uccidere civili). Restando in pratica lecita, come se hamas mi avesse garantito una certa "riserva crimine di guerra" con le sue azioni. Detto terra terra: non si dovrebbero ammazzare i civili, ma a fronte di un danno di una certa entità, una certa quota di civili li possiamo ammazzare, la cosa non comporta una nostra colpa. 
-
-Morale seguendo questa linea di pensiero considerato il danno non irrilevante della mafia in Italia propongo di affondare la Sicilia. Torna ?
+Tornare in luoghi già visitati non aumenta mai l'esperienza

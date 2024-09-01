@@ -25,7 +25,7 @@ Potenza fisica, capacità di combattere corpo a corpo
 
 Applica il modifier a:
 
-- Attack Bonus (ABp), per armi corpo a corpo che non richiedano particolare finezza di utilizzo
+- DamageDie, per armi corpo a corpo che non richiedano particolare finezza di utilizzo
 
 **Costituzione (CST)** 
 
@@ -42,7 +42,7 @@ Capacità di sostenere stress fisico, ferite, malattia e intossicazione
 Applica il suo modifier a:
 
 - Bare armor class (in conflitto con DXT)
-- Check di cura per danni fisici
+- Effetti dei check di cura per danni fisici
     
 
 **Destrezza (DXT)**
@@ -59,7 +59,7 @@ Agilità e riflessi, capacità di combattere con armi che richiedono più precis
 
 Applica il suo modifier a:
 
-- Attack Bonus (AB), per armi da tiro o che richiedono più finezza che forza nell’utilizzo
+- DamageDie, per armi da tiro o che richiedono più finezza che forza nell’utilizzo
 - Cap nel numero possibile di Riposte
 - Bare armor class (in conflitto con CST)
 
@@ -110,8 +110,8 @@ Capacità di persuasione, autorità
 
 Applica il suo modifier a :
 
-- Retainer Morale checks
-- PNG reactions
+- Risultato dei Retainer Morale check
+- Risultato dei Check di PNG reactions
 
 
 **Accuratezza (ACC)**
@@ -128,9 +128,7 @@ Capacità di costruire, utilizzare e disinnescare strumenti complessi
 
 Applica il suo modifier a :
 
-- velocità di utilizzo / riparazione / disinnesco
-
-
+- numero di check necessari per utilizzo / riparazione / disinnesco
 
 
 **Modificatori di Abilità**
@@ -156,7 +154,3 @@ Quando un check di abilità si applica in situazioni di stress dato da emergenza
 - Area d'Effetto, modifica i check di Destrezza in situazioni di emergenza, combattimento
 - Effetto Magico, modifica i check di Percezione per disfarsi di un'illusione / condizionamento magico
 - Classe Armatura, modifica i check di Forza o Destrezza di un avversario in combattimento
-
-
-
-

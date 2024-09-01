@@ -10,11 +10,11 @@ Alcune abilità possono essere limitate ad alcune razze o classi
 
 **Caratteristiche**, rappresentano pregi e carenze nei principali aspetti fisici e mentali del personaggio, oltre al generico grado di attitudine naturale verso le abilità che da essi dipendono. Ogni personaggio è definito da sette caratteristiche : Forza, Destrezza, Conoscenza, Percezione, Costituzione, Carisma e Accuratezza. Con valori che possono variare da 3 a 18 ( o più, in caso di creature sovraumane ). Qualsiasi check viene fatto sulle caratteristiche.
 
-**Modificatori**, in condizioni opportune si applicano al check stesso o ne modificano il risultato.
+**Modificatori**, in certe condizioni si applicano ad un check o ai suoi effetti.
 
-*Modificatori di reazione*, modificatori positivi o negativi che si applicano ai check eseguiti in particolari condizioni di stress o urgenza. Rappresentano la prontezza con cui si è in grado di reagire. Possono dipendere anche dal tipo di equipaggiamento proprio o del bersaglio.
+*Modificatori di reazione*, modificatori che si applicano al valore ottenuto in check eseguiti in particolari condizioni di stress o urgenza. Rappresentano la prontezza con cui si è in grado di reagire. Possono dipendere anche dal tipo di equipaggiamento proprio o del bersaglio.
 
-*Modificatori di risultato*, un modificatore da -3 a +3 ( o più ), derivato dalle caratteristiche, rappresenta la capacità di fare leverage delle proprie abilità del personaggio. Di solito si applica successivamente al risultato di un check.
+*Modificatori di effetto*, un modificatore da -3 a +3 ( o più ), derivato dalle caratteristiche, rappresenta la capacità di fare leverage delle proprie abilità del personaggio. Di solito si applica successivamente al risultato di un check, modificando la qualità degli effetti ottenuti.
 
 **Dadi di Risoluzione**, alcune procedure o il risultato specifico di un successo o fallimento nel risolvere un'azione dipendono dal lancio di un dado che cambia in base a razza e classe del personaggio.
 
