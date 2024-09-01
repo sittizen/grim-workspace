@@ -32,6 +32,9 @@ Questa cosa implica che esistono caratteristiche di razza, solo i nani riescono 
 
 Monsters and npc are not characters, semplificare le schede
 
+
+La backstory dei personaggi deve crearsi, non fa parte della creazione del pg
+
 Al 4 livello l’avanzamento corrisponde alla scelta di un path, fare in modo che fino al terzo la creazione diretta sia immediata, devo potermi trovare, rollare 4 personaggi e giocare una one shot in una serata
 Creare dei path di avanzamento che vanno programmati ? Ad esempio uno slot per guerrieri e ranger può essere “2weapons attack, che da vantaggio sull’attacco”, ma necessita di certi modifier minimi sia a str che dxt, quindi il giocatore deve decidere se spender gli slot dei primi livelli nell’alzare gli attributi per arrivare a poter usare due armi più in là
 

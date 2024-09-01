@@ -22,12 +22,6 @@ Alcune abilità possono essere limitate ad alcune razze o classi
 
 *Dado delle ferite* : rappresenta la capacità di arrecare danni mortali al nemico
 
-*Dado del velo* : rappresenta la possibilità di perdere il controllo della magia con effetti disastrosi
-
 **Livello**, il livello di una classe cresce con l'aumentare delle esperienze vissute dal personaggio. Un personaggio che non ha ancora intrapreso alcuna avventura è di livello zero, e diventa sempre più potente ad ogni passaggio di livello sbloccando nuove abilità o migliorando i punteggi delle esistenti.
 
 **Punti Esperienza**, l'avanzamento del personaggio all'interno del gioco è tracciato dai punti esperienza, che vengono assegnati in seguito a specifiche azioni / traguardi. Una volta accumulato un certo numero di punti esperienza il personaggio passa di livello.
-
-**Velocità**, la velocità con cui si muove il personaggio quando esplora il territorio, varia in base al peso dell'equipaggiamento trasportato.
-
-**Allineamento**, i personaggi possono essere votati all'ordine, alla neutralità o al caos. Questo loro credo fondamentale influenza il modo in cui si rapportano al resto del mondo e ai loro scopi e desideri.
