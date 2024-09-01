@@ -9,3 +9,4 @@
 - maestro di parate, sunder a armatura o scudo non hanno effetto
 - sacrifice, puoi spendere n punti di forza per fare nd4 danni magici a tutti i nemici in 30'. Si riprendono normalmente nel tempo.
 ₪ You can smell emotions.
+- 1Ap di aim -2 invece di -1

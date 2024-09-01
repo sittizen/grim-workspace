@@ -10,7 +10,7 @@ Alcune abilità possono essere limitate ad alcune razze o classi
 
 **Caratteristiche**, rappresentano pregi e carenze nei principali aspetti fisici e mentali del personaggio, oltre al generico grado di attitudine naturale verso le abilità che da essi dipendono. Ogni personaggio è definito da sette caratteristiche : Forza, Destrezza, Conoscenza, Percezione, Costituzione, Carisma e Accuratezza. Con valori che possono variare da 3 a 18 ( o più, in caso di creature sovraumane ). Qualsiasi check viene fatto sulle caratteristiche.
 
-**Modificatori**, in certe condizioni si applicano ad un check o ai suoi effetti.
+**Modificatori**, in certe condizioni si applicano ad un check o ai suoi effetti. Tutti i modificatori sono sempre cappati dal rango del personaggio.
 
 *Modificatori di reazione*, modificatori che si applicano al valore ottenuto in check eseguiti in particolari condizioni di stress o urgenza. Rappresentano la prontezza con cui si è in grado di reagire. Possono dipendere anche dal tipo di equipaggiamento proprio o del bersaglio.
 

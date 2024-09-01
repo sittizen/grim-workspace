@@ -22,7 +22,7 @@ Dado delle Ferite: 1 sopra
 
 caratteristica principale: Forza 
 - Vantaggio sulle prove di forza fisica in rimozione di un ostacolo.
-- BAC modificata dalla costituzione 
+- BAC modificata dal bonus di costituzione o forza (si aggiunge a eventuali modifiche precedenti)
 
 #### Lvl 1 Equipment:
 
@@ -36,7 +36,7 @@ caratteristica principale: Forza
 
 caratteristica principale: Destrezza
 - Vantaggio sulle prove di agilità in evasione di un ostacolo.
-- BAC modificata dalla destrezza
+- BAC modificata dal bonus di destrezza (si aggiunge a eventuali modifiche precedenti)
 
   
 #### Lvl 1 Equipment:
