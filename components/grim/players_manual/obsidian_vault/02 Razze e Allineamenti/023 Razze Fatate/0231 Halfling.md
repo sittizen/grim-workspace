@@ -1,6 +1,6 @@
 **
 
-SizeClass: 0
+SizeRank: 2
 
 +1 DXT o +1 ACC
 

@@ -1,6 +1,6 @@
 
 
-SizeClass: 1
+SizeRank: 3
 
-Distribuisci  un punto extra
+Distribuisci un punto extra
 

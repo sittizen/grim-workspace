@@ -1,6 +1,6 @@
 **
 
-SizeClass: 2
+SizeRank: 4
 
 +2 STR o +2 CST
 

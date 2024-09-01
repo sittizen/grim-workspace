@@ -14,7 +14,8 @@ Riposte: 0
 
 **2 - Scegliere una razza**
 
-Scegliere una delle razze dettagliate. Applicare le modifiche alle statistiche del personaggio e segnarsi eventuali check specifici che godono di vantaggio. Se un cap alle abilità dato dalla razza rende impossibile uno dei valori assegnati la differenza fra valore e cap può essere assegnata ad un altro valore, tranne quello che ha già il punteggio maggiore.
+Scegliere una delle razze dettagliate. Applicare le modifiche alle statistiche del personaggio e segnarsi eventuali check specifici che godono di vantaggio. Se un cap alle abilità dato dalla razza rende impossibile uno dei valori assegnati la differenza fra valore e cap può essere assegnata ad un altro valore. 
+In fase di creazione del personaggio qualsiasi distribuzione di punti (classe e specializzazione potrebbero darne altre ) non può mai alzare il punteggio maggiore.
 
 
 **3 - Scegliere una classe base**

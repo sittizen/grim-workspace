@@ -1,6 +1,8 @@
 
  stessa razza  passa da benigna a maligna in base agli eventi
 
+SizeRank: 1
+
 Compulsion
 
 1. Babel. Destroy knowledge, logic, language and reason. Wreak babel upon the earth. (+Mystery)
