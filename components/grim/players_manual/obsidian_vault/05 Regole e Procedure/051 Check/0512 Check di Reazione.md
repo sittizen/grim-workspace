@@ -1,5 +1,4 @@
-In caso di pericolo mortale l’istinto di sopravvivenza garantisce una reazione più immediata ed efficace per un breve periodo di tempo, rappresentata dai tiri salvezza.
-Effetti mortali possono essere mitigati o evitati con un check molto difficile modificato dell'opportuno bonus.
+Check in opposizione a certi tipi di pericolo godono di bonus in base a predisposizioni di razza o capacità acquisite grazie alla classe.
 
 
 Paralysis: qualsiasi tipo di costrizione della libertà di movimento, superata con la Forza

@@ -28,9 +28,10 @@ Se si intende iniziare la campagna con un Funnell per più personaggi di livello
 
 **4 / B - Lvl 1**
 
-Scegliere una classe specializzata e applicare le modifiche alle abilità del personaggio.
+Scegliere una classe specializzata e applicare le modifiche alle abilità del personaggio. Segnare i vantaggi dovuti alla classe.
 
 **5 - Tirare per l'equipaggiamento iniziale**
 
-In base a razza, classe e livello tirare sulla tabella dell'equipaggiamento e completare la compilazione della scheda. Ricordarsi eventuali modifiche alla classe armatura e velocità di marcia.
+In base a razza, classe e livello tirare sulla tabella dell'equipaggiamento e completare la compilazione della scheda.
+Ricordarsi eventuali modifiche alla classe armatura e velocità di marcia (segnare i bonus dati dagli oggetti di fianco a essi nell'inventario, sulla scheda segnare i totali).
 Solo se di primo livello tutti hanno uno zaino, un borsello per le monete con  2d4 sp , 2 gg di razioni. Inoltre il party ha un tinderbox e 2d4 torce
