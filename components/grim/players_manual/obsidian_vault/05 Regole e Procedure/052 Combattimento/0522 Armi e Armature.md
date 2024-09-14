@@ -14,23 +14,14 @@
 |II|Brigandine|+4 +3 +4|+2|
 |III|Plate|+4 +4 +4|+3|    
 
-### Danni delle Armi
+### Danni delle armi
 
-|Size Rank     |Danno|min STRm|
-|--------------|-----|--------|
-|light         | d6  | -2     |
-|medium        | d8  | -1     |
-|heavy / 2hands| d10 | +1     |
-|huge / 2hands w/1h| d12 / d10 | +2 |
-
-### Tipo di Danno
-
-|Size Rank    | crush | slash | pierce |
-|-------------|-------|-------|--------|
-|light        | club, lighthammer| sickle, shorsword, whip |dagger |
-|medium       | mace, quarterstaff | handaxe, scimitar, sword | javelin spear |
-| heavy       | great club, flail, warhammer | battleaxe, longsword | lance, morningstar |
-| huge        | huge club, maul, greathammer | glaive, greataxe, greatsword, halberd | pike |
+|Size Rank    Danno|min STRm|| crush | slash | pierce |
+|-------------|-|-|-------|-------|--------|
+|light        |d6|-1| club, lighthammer| sickle, shorsword, whip |dagger |
+|medium       |d8|-1| mace, quarterstaff | handaxe, scimitar, sword | javelin spear |
+| heavy / 2hands       |d10|+1| great club, flail, warhammer | battleaxe, longsword | lance, morningstar |
+| huge / 2hands w/1h       |d12/d10|+2| huge club, maul, greathammer | glaive, greataxe, greatsword, halberd | pike |
 
 ### Ferite e Condizioni
 
@@ -52,7 +43,7 @@ Se un attributo scende a 3 si ottiente una scar.
 
 In caso di "sunder" si tira 1d8 sull'equipaggiato e quell'oggetto è distrutto, quell'arma o armatura prende -1.
 
-||I (1-3)|II (4-7)|III (8-11)|IV (12+)|Scar|
+||I (1+)|II (4+)|III (8+)|IV (12+)|Scar|
 |-|-|-|-|-|-|
 |1 testa |WIS|WIS -1INT| WIS -1d4INT -2d4CST| WIS -1d4INT -3d4CST|scar, attribute -1 permanently|
 |2-4 torso |CST|CST -1STR|CST -1d4STR|CST -2d4STR|bloody mess, lose 1CST every day until cured|

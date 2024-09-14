@@ -12,10 +12,10 @@ Dado delle Ferite: 1 sopra
 
 ||I roll|II roll|III roll|
 |---|---|---|---|
-|1|arma media e scudo|heavy cloth armor|10m di corda|
-|2|arma grande |soft leather armor||
-|3||||
-|4||||
+|1|arma media|heavy cloth armor|10m di corda|
+|2|arma grande |soft leather armor|a bedroll|
+|3|shortbow and 10 arrows|shield|oil flask|
+|4|two daggers|||
 
 
 ## Knight

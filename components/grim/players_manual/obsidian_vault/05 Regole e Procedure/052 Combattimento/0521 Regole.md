@@ -7,16 +7,12 @@ Le regole di combattimento puntano a renderlo veloce e potenzialmente letale, un
 
 - Use Action Points (2 x round)
     - Spell *
-    - Draw or change weapon 1
-    - Stand 1
     - Attack 1
     - Recharge 1
     - Eat or Drink 2
     - Move 1 
-    - Aim 1
     - Disengage 2
     - Take something from pouch / belt 1
-    - Take something from backpack 2
 
 Attack : Check di STR o DXT, modificato della CA avversaria
 - d6, svantaggio sul dado ferite
