@@ -5,14 +5,14 @@
 |Light|3/0|||
 |I|Heavy Cloth|+1 +0 +1||
 |II|Soft Leather|+2 +1 +1||
-|III|Hide Scale|+3 +2 +2||
+|III|Hide Scale|+3 +2 +1||
 |Medium|2/1|||
-|I|Rigid Leather|+3 +3 +2||
-|II|Mail Chain|+4 +2 +4|+1|
+|I|Rigid Leather|+3 +3 +2|+1|
+|II|Mail Chain|+4 +2 +2|+1|
 |Heavy|1/2|||
-|I|Metal Scale|+4 +4 +3|+2|
-|II|Brigandine|+4 +5 +4|+2|
-|III|Plate|+5 +5 +5|+3|    
+|I|Metal Scale|+4 +3 +3|+2|
+|II|Brigandine|+4 +3 +4|+2|
+|III|Plate|+4 +4 +4|+3|    
 
 ### Danni delle Armi
 
