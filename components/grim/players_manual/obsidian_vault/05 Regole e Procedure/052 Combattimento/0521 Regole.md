@@ -1,7 +1,7 @@
 Le regole di combattimento puntano a renderlo veloce e potenzialmente letale, un personaggio anche di alto livello non sarà mai al sicuro da un colpo ben assestato.
 
 
-- Check for surprise [3-(max(SizeRank)|WIS]
+- Check for surprise [III-(max(SizeRank)|WIS]
 - Roll initiative dice, a parità di iniziativa vince l'arma più piccola, poi il dado più piccolo, poi la destrezza.
 - Loop through rounds
 

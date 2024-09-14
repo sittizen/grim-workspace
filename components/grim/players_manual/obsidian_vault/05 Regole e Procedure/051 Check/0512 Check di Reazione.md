@@ -1,6 +1,6 @@
-nota che gli attacchi sono check di reazione
+In caso di pericolo mortale l’istinto di sopravvivenza garantisce una reazione più immediata ed efficace per un breve periodo di tempo, rappresentata dai tiri salvezza.
+Effetti mortali possono essere mitigati o evitati con un check molto difficile modificato dell'opportuno bonus.
 
-In caso di pericolo mortale l’istinto di sopravvivenza garantisce una reazione più immediata ed efficace per un breve periodo di tempo, rappresentata dai tiri salvezza. Sono raggruppati in quattro categorie e garantiscono un bonus al check di abilità :
 
 Paralysis: qualsiasi tipo di costrizione della libertà di movimento, superata con la Forza
 Area of Effect: tipologie di danno che accadono in un’area sufficientemente ampia, come esplosioni, nuvole corrosive, pioggia di frecce. Superata con la Destrezza

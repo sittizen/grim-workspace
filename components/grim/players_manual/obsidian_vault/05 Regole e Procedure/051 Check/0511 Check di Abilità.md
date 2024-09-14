@@ -4,6 +4,10 @@ In generale i check vengono fatti con la somma di due dadi, cercando di stare so
 - Ability Dice: rappresenta la capacità di fare leverage delle proprie attitudini e conoscenze, è sempre un d12
 
 - Difficulty Dice, rappresenta l’oggettiva difficoltà dell’azione che si vuole compiere. Diversi dadi da d6 a d12 vengono utilizzati a seconda della difficoltà
+	- I facile d6
+	- II normale d8
+	- III difficile d10
+	- IV molto difficile d12
 
 Inoltre la qualità del risultato va interpretata nel modo seguente
 - Se il risultato è minore al valore di abilità e i due dadi hanno lo stesso valore il risultato ha esiti migliori del previsto
@@ -21,7 +25,7 @@ Check Immediati
 - Nascosto : un giocatore dichiara di voler cercare trappole e tira il dado di abilità, ma il DM non dichiara la difficoltà e tira segretamente il dado di difficoltà necessario. Il risultato è espresso dal punto di vista del personaggio. Ad esempio dichiarando di cercare trappole e non trovandole posso restare col dubbio che ci siano trappole ben nascoste che non ho trovato ( tiro un 8 avendo percezione 11 ), o avere una buona certezza che non ci siano trappole ( saggezza 16 e tiro 4. )
 - Segreto : il dm tira segretamente tutti i dadi e informa i giocatori solo se necessario, ad esempio si accorgono che qualcuno li sta seguendo. Oppure il gruppo di assassini li seguirà a distanza anche per oggi.
 
-Un fallimento nei check indica incapacità nel compiere l’azione, ad esempio se si fallisce il check per scassinare una serratura la serratura è troppo complessa per le nostre capacità e tiri successivi non ci permetteranno di scassinarla. Si può sempre prepararsi al check prendendosi del tempo, ogni turno speso garantisce un bonus di -1 al tiro, con un massimo pari al modificatore +1. Ad esempio con un valore ACC+1 si possono spendere fino a due turni per tentare il check di scassinare con un -2 al totale dei dadi. Se si ha un modificatore negativo è inutile prepararsi. 
+Un fallimento nei check indica incapacità nel compiere l’azione, ad esempio se si fallisce il check per scassinare una serratura la serratura è troppo complessa per le nostre capacità e tiri successivi non ci permetteranno di scassinarla. Si può sempre prepararsi al check prendendosi del tempo, ogni unità di tempo spesa garantisce un bonus di -1 al tiro, con un massimo pari al modificatore +1. Ad esempio con un valore ACC+1 si possono spendere fino a due turni per tentare il check di scassinare con un -2 al totale dei dadi. Se si ha un modificatore negativo è inutile prepararsi. 
 
 Check Incrementali  
 I check incrementali si svolgono nelle stesse quattro modalità ma con tiri successivi regolati dalle seguenti caratteristiche : 
