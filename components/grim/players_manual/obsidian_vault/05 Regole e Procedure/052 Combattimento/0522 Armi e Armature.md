@@ -34,7 +34,7 @@
 
 ### Ferite e Condizioni
 
-Il risultato del dado dell'arma si incrocia qui per il danno e la descrizione
+Consultare qui per la descrizione del danno
 
 |rank|dmg|slash|pierce|crush|
 |-|-|-|-|-|
@@ -46,19 +46,23 @@ Il risultato del dado dell'arma si incrocia qui per il danno e la descrizione
 ||9-11|mutila|trapassa|sfonda|
 |IV|12+|amputa||
 
-Poi si tira un dado di ferita per trovare a cosa si applica il danno ed eventuali effetti aggiuntivi. 
+Poi incrociare col dado delle ferite per trovare a cosa si applica il danno ed eventuali effetti aggiuntivi.
+
+Se un attributo scende a 3 si ottiente una scar.
+
+In caso di "sunder" si tira 1d8 sull'equipaggiato e quell'oggetto è distrutto, quell'arma o armatura prende -1.
 
 ||I (1-3)|II (4-7)|III (8-11)|IV (12+)|Scar|
 |-|-|-|-|-|-|
-|1 testa +rank danni|WIS|WIS -1INT| WIS -1d4INT -2d4CST| WIS -1d4INT -3d4CST|scar|
-|2-4 torso |CST|CST -1STR|CST -1d4STR|CST -2d4STR|bloody mess, lose 1CST every day until professionally cured|
-|5 sunder| - | 1 | 1d2 | 1d3 |advantage for the sunder roll|
-|6-7 braccia| STR | STR -1DST | STR -1d4DST| STR -2d4DST|torned, attribute lowered permanently|
-|8-9 gambe| DST | DST -1CST | DST -1d4CST | DST -2s4CST|torned|
-|10-11 vital |CST+1|CST+1 -2STR| CST+2 -1d4STR| CST+3 -2d4STR|bloody mess, lose 2CST until|
+|1 testa |WIS|WIS -1INT| WIS -1d4INT -2d4CST| WIS -1d4INT -3d4CST|scar, attribute -1 permanently|
+|2-4 torso |CST|CST -1STR|CST -1d4STR|CST -2d4STR|bloody mess, lose 1CST every day until cured|
+|5 sunder (number of items broken)| - | 1 | 1d2 | 1d3 |advantage for the sunder roll|
+|6-7 braccia| STR | STR -1DST | STR -1d4DST| STR -2d4DST|torned, attribute -1 permanently|
+|8 gambe| DST | DST -1CST | DST -1d4CST | DST -2d4CST|torned, attribute -1 permanently|
+|9-11 vital |CST+1|CST+1 -2STR| CST+2 -1d4STR| CST+3 -2d4STR|bloody mess, lose 2CST every day until cured|
 |12 reroll e vantaggio sul danno secondario||||||
 
-In caso di "sunder" si tira un dado sull'equipaggiamento veloce e quell'oggetto è distrutto, quell'arma o armatura prende -1 ( a zero è distrutta )
+
 
 
 

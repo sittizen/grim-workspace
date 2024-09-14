@@ -2,31 +2,31 @@ Le regole di combattimento puntano a renderlo veloce e potenzialmente letale, un
 
 
 - Check for surprise [3-(max(SizeRank)|WIS]
-- Declare intentions (engage, or disengage if possible)
-- Roll initiative dice, a parità di iniziativa vince l’arma più piccola,  poi furfante > guerriero > chierico > mago
-- Resolve combat 
+- Roll initiative dice, a parità di iniziativa vince l'arma più piccola, poi il dado più piccolo, poi la destrezza.
+- Loop through rounds
 
-Action Points ( 2 x round )
-- Spell *
-- Draw or change weapon 1
-- Stand 1
-- Attack 1
-- Recharge 1
-- Eat or Drink 2
-- Move 1 
-- Aim 1
-- Disengage 2
-- Take something from pouch / belt 1
-- Take something from backpack 2
+- Use Action Points (2 x round)
+    - Spell *
+    - Draw or change weapon 1
+    - Stand 1
+    - Attack 1
+    - Recharge 1
+    - Eat or Drink 2
+    - Move 1 
+    - Aim 1
+    - Disengage 2
+    - Take something from pouch / belt 1
+    - Take something from backpack 2
 
-Attacco : Check di STR o DXT
+Attack : Check di STR o DXT, modificato della CA avversaria
 - d6, svantaggio sul dado ferite
 - d8, nessuna modifica
 - d10, vantaggio sul dado ferite
 
-Un attacco fallito scatena un attacco di riposte dell'avversario.
+Fallimento scatena un attacco di riposte dell'avversario, se disponibile.
 
-puoi essere colpito senza conseguenze per il tuo rank
+In caso di successo tirare il dado di danno dell'arma e il dado ferite della classe.
+Modificare i danni dell'arma col bonus di STR o DXT (sempre almeno 1) e incrociare il risultato col risultato delle ferite.
 
 Ranghi del danno:
 - I, light 1-3
