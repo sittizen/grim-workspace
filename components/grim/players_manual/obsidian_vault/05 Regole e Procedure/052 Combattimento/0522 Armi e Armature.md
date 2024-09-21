@@ -10,9 +10,9 @@
 |I|Rigid Leather|+3 +3 +2|+1|
 |II|Mail Chain|+4 +2 +2|+1|
 |Heavy|1/2|||
-|I|Metal Scale|+4 +3 +3|+2|
-|II|Brigandine|+4 +3 +4|+2|
-|III|Plate|+4 +4 +4|+3|    
+|I|Metal Scale|+3/-1 +3 +3|+2|
+|II|Brigandine|+3/-1 +3 +3/-1|+2|
+|III|Plate|+3/-1 +3/-1 +3/-1|+3|    
 
 ### Danni delle armi
 
@@ -46,13 +46,11 @@ In caso di "sunder" si tira 1d8 sull'equipaggiato e quell'oggetto è distrutto, 
 ||I (1+)|II (4+)|III (8+)|IV (12+)|Scar|
 |-|-|-|-|-|-|
 |1 testa |WIS|WIS -1INT| WIS -1d4INT -2d4CST| WIS -1d4INT -3d4CST|scar, attribute -1 permanently|
-|2-4 torso |CST|CST -1STR|CST -1d4STR|CST -2d4STR|bloody mess, lose 1CST every day until cured|
-|5 sunder (number of items broken)| - | 1 | 1d2 | 1d3 |advantage for the sunder roll|
-|6-7 braccia| STR | STR -1DST | STR -1d4DST| STR -2d4DST|torned, attribute -1 permanently|
-|8 gambe| DST | DST -1CST | DST -1d4CST | DST -2d4CST|torned, attribute -1 permanently|
-|9-11 vital |CST+1|CST+1 -2STR| CST+2 -1d4STR| CST+3 -2d4STR|bloody mess, lose 2CST every day until cured|
-|12 reroll e vantaggio sul danno secondario||||||
-
+|2,3 torso |CST|CST -1STR|CST -1d4STR|CST -2d4STR|bloody mess, lose 1CST every day until cured|
+|4 sunder (number of items broken)| - (1 on scar)| 1 | 1d2 | 1d3 |-|
+|5 braccia| STR | STR -1DST | STR -1d4DST| STR -2d4DST|torned, attribute -1 permanently|
+|6 gambe| DST | DST -1CST | DST -1d4CST | DST -2d4CST|torned, attribute -1 permanently|
+|7+ , reroll and double |
 
 
 

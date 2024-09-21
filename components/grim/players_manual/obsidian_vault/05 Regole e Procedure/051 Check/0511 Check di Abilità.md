@@ -3,11 +3,10 @@ In generale i check vengono fatti con la somma di due dadi, cercando di stare so
 
 - Ability Dice: rappresenta la capacità di fare leverage delle proprie attitudini e conoscenze, è sempre un d12
 
-- Difficulty Dice, rappresenta l’oggettiva difficoltà dell’azione che si vuole compiere. Diversi dadi da d6 a d12 vengono utilizzati a seconda della difficoltà
-	- I facile d6
-	- II normale d8
-	- III difficile d10
-	- IV molto difficile d12
+- Difficulty Dice, rappresenta l’oggettiva difficoltà dell’azione che si vuole compiere. Un diverso numero di d6 vengono utilizzati a seconda della difficoltà
+	- I normale 1d6
+	- II difficile 2d6
+	- III molto difficile 3d6
 
 Inoltre la qualità del risultato va interpretata nel modo seguente
 - Se il risultato è minore al valore di abilità e i due dadi hanno lo stesso valore il risultato ha esiti migliori del previsto

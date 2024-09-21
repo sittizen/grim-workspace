@@ -14,15 +14,12 @@ Le regole di combattimento puntano a renderlo veloce e potenzialmente letale, un
     - Disengage 2
     - Take something from pouch / belt 1
 
-Attack : Check di STR o DXT, modificato della CA avversaria
-- d6, svantaggio sul dado ferite
-- d8, nessuna modifica
-- d10, vantaggio sul dado ferite
+Attack : Check di STR o DXT, con difficoltà della CA avversaria
 
 Fallimento scatena un attacco di riposte dell'avversario, se disponibile.
 
 In caso di successo tirare il dado di danno dell'arma e il dado ferite della classe.
-Modificare i danni dell'arma col bonus di STR o DXT (sempre almeno 1) e incrociare il risultato col risultato delle ferite.
+Modificare i danni dell'arma col bonus di STR o DXT (in caso di malus, si fa sempre almeno 1) e incrociare il risultato col risultato delle ferite.
 
 Ranghi del danno:
 - I, light 1-3
