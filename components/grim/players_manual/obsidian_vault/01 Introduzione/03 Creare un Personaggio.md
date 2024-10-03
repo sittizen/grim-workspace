@@ -4,12 +4,19 @@ Tirare otto volte 3d6, togliere il valore minore e assegnare i restanti fra le s
 Segnare sulla scheda i seguenti valori di base:
 
 Modificatori di Reazione : +1
+
 Classe Armatura: +1 se si ha un modificatore positivo in CST o DXT altrimenti 0
+
 Iniziativa, ferite : d8
+
 Aggressive stance: -2Atk e -4AC
-Defesive stance: +2AC e -4Atk
+
+Defensive stance: +2AC e -4Atk
+
 Aim: -1AP -2Atk
+
 Move and Shoot: +4Atk
+
 Riposte: 0
 
 **2 - Scegliere una razza**
