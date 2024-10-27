@@ -17,9 +17,9 @@
 
 ### Razze dell'Ordine
 
+- [Umani](./02%20Razze%20e%20Allineamenti/022%20Razze%20dell'Ordine/0221%20Umani)
 - [Elfi](./02%20Razze%20e%20Allineamenti/022%20Razze%20dell'Ordine/0221%20Elfi)
 - [Nani](./02%20Razze%20e%20Allineamenti/022%20Razze%20dell'Ordine/0222%20Nani)
-- [Umani](./02%20Razze%20e%20Allineamenti/022%20Razze%20dell'Ordine/0223%20Umani)
 
 ### Razze Fatate
 

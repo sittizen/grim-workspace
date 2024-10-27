@@ -1,6 +1,7 @@
 **1 - Roll delle abilità**
 
-Tirare otto volte 3d6, togliere il valore minore e assegnare i restanti fra le sette abilità.
+Tirare sette volte 3d6, gli 1 sono 2 e i 6 5.
+
 Segnare sulla scheda i seguenti valori di base:
 
 Modificatori di Reazione : +1
@@ -11,7 +12,7 @@ Iniziativa, ferite : d8
 
 Aggressive stance: -2Atk e -4AC
 
-Defensive stance: +2AC e -4Atk
+Defensive stance: +4Atk e +2AC
 
 Aim: -1AP -2Atk
 

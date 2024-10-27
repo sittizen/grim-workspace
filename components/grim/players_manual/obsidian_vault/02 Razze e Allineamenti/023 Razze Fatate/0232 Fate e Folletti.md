@@ -10,8 +10,9 @@ SizeRank: 2
 
 +1 vs Pa
 
--2 vs Mfx
+-1 vs Mfx , ma tirati con vantaggio
 
 CST cappata a 16
 
 DXT cappata a 19
+

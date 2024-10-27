@@ -10,7 +10,9 @@ Limitare in base al modifier / livello e aumentare la difficoltà allontanandosi
 - vantaggio su hit dmg e range per le armi da lancio ( coltelli ecc, no archi o balestre)
 - +2 vs Po
 - aggiunge il bonus destrezza alla Pa
-- mockery, will check o l'avversario ha svantaggio per Cha mod round
+
+- mockery, will check o l'avversario ha svantaggio per Cha mod + lvl round
+
 - vantaggio sui piccoli furti
 - vantaggio sulla seduzione
 - Awareness, +2 ai tiri di perception passivi
