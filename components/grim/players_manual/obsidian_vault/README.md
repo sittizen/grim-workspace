@@ -18,14 +18,14 @@
 ### Razze dell'Ordine
 
 - [Umani](./02%20Razze%20e%20Allineamenti/022%20Razze%20dell'Ordine/0221%20Umani)
-- [Elfi](./02%20Razze%20e%20Allineamenti/022%20Razze%20dell'Ordine/0221%20Elfi)
 - [Nani](./02%20Razze%20e%20Allineamenti/022%20Razze%20dell'Ordine/0222%20Nani)
+- [Elfi](./02%20Razze%20e%20Allineamenti/022%20Razze%20dell'Ordine/0223%20Elfi)
 
 ### Razze Fatate
 
 - [Halfling](./02%20Razze%20e%20Allineamenti/023%20Razze%20Fatate/0231%20Halfling)
-- [Fate e Folletti](./02%20Razze%20e%20Allineamenti/023%20Razze%20Fatate/0232%20Fate%20e%20Folletti)
-- [Brownie e Boggart](./02%20Razze%20e%20Allineamenti/023%20Razze%20Fatate/0233%20Brownie%20e%20Boggart)
+- [Fate](./02%20Razze%20e%20Allineamenti/023%20Razze%20Fatate/0232%20Fate)
+- [Boggart](./02%20Razze%20e%20Allineamenti/023%20Razze%20Fatate/0233%20Boggart)
 
 ### Razze del Chaos
 

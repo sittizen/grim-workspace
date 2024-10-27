@@ -1,5 +1,13 @@
 **Razza** :  Esistono nove razze ognuna con punti di forza, debolezza e tratti caratteristici.
-[Umani](../02%20Razze%20e%20Allineamenti/022%20Razze%20dell'Ordine/0221%20Umani), Nani, Elfi, Halfling, Boggart, Fate, Orchi, Gnoll e Goblin
+[Umani](../02%20Razze%20e%20Allineamenti/022%20Razze%20dell'Ordine/0221%20Umani), 
+[Nani](../02%20Razze%20e%20Allineamenti/022%20Razze%20dell'Ordine/0222%20Nani),
+[Elfi](../02%20Razze%20e%20Allineamenti/022%20Razze%20dell'Ordine/0223%20Elfi), 
+[Halfling](../02%20Razze%20e%20Allineamenti/023%20Razze%20Fatate/0231%20Halfling), 
+[Boggart](../02%20Razze%20e%20Allineamenti/023%20Razze%20Fatate/0233%20Boggart), 
+[Fate](../02%20Razze%20e%20Allineamenti/023%20Razze%20Fatate/0232%20Fate), 
+[Orchi](../02%20Razze%20e%20Allineamenti/024%20Razze%20del%20Chaos/0241%20Orchi), 
+[Gnoll](../02%20Razze%20e%20Allineamenti/024%20Razze%20del%20Chaos/0242%20Gnoll) e 
+[Goblin](../02%20Razze%20e%20Allineamenti/024%20Razze%20del%20Chaos/0243%20Goblin)
 
 **Classe** : Il ruolo del personaggio all'interno del party. 
 Ogni classe ha specifici vantaggi o debolezze nell'utilizzo delle caratteristiche, 
