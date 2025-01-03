@@ -2,7 +2,7 @@ Le regole di combattimento puntano a renderlo veloce e potenzialmente letale, un
 
 
 - Check for surprise [III-(max(SizeRank)|WIS]
-- Roll initiative dice, a parità di iniziativa vince l'arma più piccola, poi il dado più piccolo, poi la destrezza.
+- Roll initiative dice, a parità di iniziativa vince l'arma più piccola, poi la destrezza.
 - Loop through rounds
 
 - Use Action Points (2 x round)
@@ -18,8 +18,9 @@ Attack : Check di STR o DXT, con difficoltà della CA avversaria
 
 Fallimento scatena un attacco di riposte dell'avversario, se disponibile.
 
-In caso di successo tirare il dado di danno dell'arma e il dado ferite della classe.
-Modificare i danni dell'arma col bonus di STR o DXT (in caso di malus, si fa sempre almeno 1) e incrociare il risultato col risultato delle ferite.
+
+
+In caso di successo si applica fino al dado di danno dell'arma in base al tiro di ferite.
 
 Ranghi del danno:
 - I, light 1-3

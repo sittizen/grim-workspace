@@ -14,7 +14,7 @@ I maghi possono imparare senza limiti ogni tipi di incantesimo, possono però te
 
 ||I roll|II roll|III roll|
 |---|---|---|---|
-|1|knife||reading glasses|
+|1|knife|repellent|reading glasses|
 |2|||book of planetary charts|
 |3||||
 |4||||

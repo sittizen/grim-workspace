@@ -40,8 +40,8 @@ caratteristica principale: Destrezza
 
 ||I roll|II roll|III roll|
 |---|---|---|---|
-|1|coltello da stivale|veleno||
-|2||||
+|1|coltello da stivale|veleno|olio incendiario|
+|2|dardi soporiferi|bende|corda sottile|
 |3||||
 |4||||
 

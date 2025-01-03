@@ -10,15 +10,15 @@ Classe Armatura: +1 se si ha un modificatore positivo in CST o DXT altrimenti 0
 
 Iniziativa, ferite : d8
 
-Aggressive stance: -2Atk e -4AC
+Aggressive stance: -1AtkDice e -2ACDice (for the attacker )
 
-Defensive stance: +4Atk e +2AC
+Defensive stance: +2AtkDice e +1AC ( for the attacker )
 
-Aim: -1AP -2Atk
-
-Move and Shoot: +4Atk
+Aim: -1AP -1AtkDice
 
 Riposte: 0
+
+Slot di svantaggio: d0
 
 **2 - Scegliere una razza**
 

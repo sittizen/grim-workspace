@@ -4,13 +4,22 @@ ogni giorno ognuno ha a disposizione 12 punti, spendere un punto fa passare due 
 
 I punti possono essere spesi nelle seguenti attività:
 
-- 1 spostarsi di quattro miglia a piedi su terreno pianeggiante
 - 1 fare un check di foraging
 - 1 fare un check di hunting
-- 1 fare un check di riposo
-- 1 fare un check di esplorazione
 
-## spostarsi
+
+( ogni check di hunt o foraging implica un check di encounter con svantaggio )
+
+- 1 fare un check di riposo
+
+(sotto costituzione perception si recupera una ferita )
+
+- 1 fare un check di esplorazione
+- 1 make camp
+- x spostarsi di quattro miglia a piedi
+
+
+## spostarsi di 4 miglia
 
 |terreno|road|tracked|trackless/track|navigation check| forage check / intoxication | hunt check / encounter | encounter day/night *|
 |--|--|--|--|--|--|--|--|
@@ -28,5 +37,8 @@ I punti possono essere spesi nelle seguenti attività:
 * hex adiacenti a un centro legale alzano il dado , viceversa per un centro caotico
 ** un trail torna trackless dopo navigation check d4 giorni che non viene percorso
 
+Quando lo spostamento fa entrare in un nuovo hex si tira un dado incontro, se il risultato è 1 l'incontro avviene ad un orario casuale tra l'ora di ingresso e l'ora stimata della fine dell'azione attuale.
+
+Ogni 2 ore dormite in meno di 8 si alza il dado di svantaggio
 
 

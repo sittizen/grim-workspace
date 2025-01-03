@@ -10,7 +10,7 @@ Il chierico ottiene gli incantesimi per grazia divina, può sempre decidere cosa
 
 ||I roll|II roll|III roll|
 |---|---|---|---|
-|1|mace and shield||deity symbol|
+|1|mace|shield|deity symbol|
 |2||||
 |3||||
 |4||||
